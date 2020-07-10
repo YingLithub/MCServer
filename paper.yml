@@ -172,7 +172,7 @@ world-settings:
       impact-sound: -1
       flash: -1
     anti-xray:
-      enabled: false
+      enabled: true
       engine-mode: 1
       max-chunk-section-index: 3
       update-radius: 2
