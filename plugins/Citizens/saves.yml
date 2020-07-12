@@ -3,3 +3,50 @@
 
 
 
+
+last-created-npc-id: 0
+npc:
+  '0':
+    metadata:
+      cached-skin-uuid-name: amdyes_intelno
+      cached-skin-uuid: db345d89-6f26-450e-96f7-7112da42da62
+    name: amdYes_intelNO
+    uuid: 0589ccf4-077b-47a7-9775-5ba2bccd5cdd
+    traits:
+      gravity:
+        enabled: false
+      location:
+        bodyYaw: 92.389404
+        world: world
+        x: '161.2899'
+        y: '68.0'
+        z: '-185.5595'
+        yaw: '92.3894'
+        pitch: '0.0'
+      skintrait:
+        fetchDefaultSkin: true
+        signature: jEijQqUl2qMSLo9I+akUXVFZVcg2QhQu0vouE55p916lqaK3Wseu2jWvb+cOdDUyQtZZ/LviSlS6k9GekjuiS/rzChjQvfCGU0TjXjc2oSWZbjH2aGKl1C2bfTzAHGMGcd42Lwb1UaeQRqZ8hvki5r5s4IixXAB435ttkgDX8mA8UiLbJbAjm/mbEbS/0SirL8f/WWxgTv8EvEzC6/1cgFK1/p4UL++lKWfKftWAx1cAbrVtJ/vbkCszguIdEDL26OWHElHFbkPCOuUZKIL7IC3VZVy54fZz43CyGnjiktwDj5wr+DJ14/lOrMF5R2lWpjHoHq4gZxJFnJbMwlNrqKbA1mjVzmln6zaF4uZjf7Me+q5jm88k12YJUIu/qz7Kmntxn4t0Wdfq9NByzf0bnNJ+8AR//hwqpehI63hJTtIKZmT09DJJZZtt2+gu59xlCcNOq2mSr/w8J4Itjy49dc4T1KjfjQ3sobzVUzr2QZR1o4ko2Ium0e3H82CbpTvduK9w7cmHIDO9LyP7V7fXZQRyT+jP7uObgwb1hPjKCA3MZNY7FPtf4YA3OJBzz4TlifoDXr/bm8lSWOrqtKZDDIK4Jur9quCE+Fs2esoaX5cOM6BfpNDaU8y6nzrmSuTz4eVOoifwkl1fFqrbDzjVlnn8/JWtvo4RW7ftzrUkMdw=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTU5NDUyOTYxNDk1OCwKICAicHJvZmlsZUlkIiA6ICJkYjM0NWQ4OTZmMjY0NTBlOTZmNzcxMTJkYTQyZGE2MiIsCiAgInByb2ZpbGVOYW1lIiA6ICJhbWRZZXNfaW50ZWxOTyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS84YWNkY2E2NDdmY2YxYzQ3YzEzOGNjMGQ3NGQ1NThmZjkzMTNhODhhMDUxMTRhNWQyNTM2Yjk4NzUzNzZmZTE4IgogICAgfQogIH0KfQ==
+        updateSkins: false
+      type: PLAYER
+      spawned: true
+      lookclose:
+        range: '5.0'
+        enabled: true
+        enableRandomLook: false
+        randomLookDelay: 60
+        realisticlooking: false
+        randomPitchRange:
+          '0': -10.0
+          '1': 0.0
+        randomYawRange:
+          '0': 0.0
+          '1': 360.0
+      owner:
+        owner: amdYes_intelNO
+        uuid: db345d89-6f26-450e-96f7-7112da42da62
+    traitnames: equipment,skintrait,gravity,owner,location,type,lookclose,scoreboardtrait,mounttrait,inventory,spawned
+    navigator:
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

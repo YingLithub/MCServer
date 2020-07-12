@@ -1,7 +1,7 @@
 lastAccountName: amdYes_intelNO
 timestamps:
-  login: 1594431611081
-  logout: 1593913943822
+  login: 1594530133828
+  logout: 1594530131063
   lastteleport: 1594430962086
 ipAddress: 127.0.0.1
 lastlocation:
@@ -12,12 +12,12 @@ lastlocation:
   yaw: 148.94641
   pitch: 37.799675
 logoutlocation:
-  world: survive_world
-  x: -169.29989137615
-  y: 65.0
-  z: 158.50481509081993
-  yaw: 262.4986
-  pitch: 47.700462
+  world: world
+  x: 157.18360353197156
+  y: 68.0
+  z: -186.56657684411812
+  yaw: 156.29471
+  pitch: 26.24932
 homes:
   home:
     world: world

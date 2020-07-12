@@ -45,4 +45,5 @@ groups:
     - residence.chatkick
     - residence.compass
     - -residence.command.select
+    - pvptoggle.allow
 schema-version: 1
