@@ -16,7 +16,7 @@ challenges:
       - 10 experience=40
       - 25 experience=60 item=iron_pickaxe,1,name=&cSpeedy_Pickaxe,lore=&rMines_faster!|&rI_completed_Mine_Iron_3!,efficiency=3
   mine_block-gold_ore:
-    name: 'Mine Iron'
+    name: 'Mine gold'
     item: gold_ingot
     stages:
       - 5 experience=20
