@@ -1,44 +1,45 @@
-[13:00:11] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
-[13:00:11] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[13:00:13] [Server-Worker-4/INFO]: Loaded 7 recipes
-[13:00:15] [Server thread/INFO]: Starting minecraft server version 1.16.1
-[13:00:15] [Server thread/INFO]: Loading properties
-[13:00:15] [Server thread/INFO]: This server is running Paper version git-Paper-89 (MC: 1.16.1) (Implementing API version 1.16.1-R0.1-SNAPSHOT)
-[13:00:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[13:00:15] [Server thread/INFO]: Using 4 threads for Netty based IO
-[13:00:15] [Server thread/INFO]: Debug logging is disabled
-[13:00:16] [Server thread/INFO]: Default game type: SURVIVAL
-[13:00:16] [Server thread/INFO]: Generating keypair
-[13:00:16] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:00:16] [Server thread/INFO]: Using epoll channel type
-[13:00:17] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[13:00:22] [Server thread/WARN]: Legacy plugin PermissionsEx v1.23.4 does not specify an api-version.
-[13:00:22] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
-[13:00:24] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@7c944445]
-[13:00:24] [Server thread/INFO]: [PL-Hide] Loading PL-Hide v1.5.11
-[13:00:24] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
-[13:00:24] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b${env.TRAVIS_BUILD_NUMBER}
-[13:00:24] [Server thread/INFO]: [PvPToggle] Loading PvPToggle v1.7
-[13:00:24] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.1.0-b775
-[13:00:24] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
-[13:00:24] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.27-SNAPSHOT (build 2049)
-[13:00:24] [Server thread/INFO]: [ChestCommands] Loading ChestCommands v3.2.0
-[13:00:24] [Server thread/INFO]: [DiscordSRV] Loading DiscordSRV v1.18.4
-[13:00:24] [Server thread/INFO]: [LockettePro] Loading LockettePro v2.9.10
-[13:00:24] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.2.0
-[13:00:24] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.17.2.0
-[13:00:24] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.17.2.0
-[13:00:24] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.17.2.0
-[13:00:24] [Server thread/INFO]: [EssentialsXMPP] Loading EssentialsXMPP v2.17.2.0
-[13:00:24] [Server thread/INFO]: [Residence] Loading Residence v4.9.1.0
-[13:00:24] [Server thread/INFO]: [QuickShop] Loading QuickShop v4.0.3.2
-[13:00:24] [Server thread/INFO]: [QuickShop] Loading up integration modules.
-[13:00:24] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[13:00:24] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
-[13:00:24] [Server thread/WARN]: [WorldEdit] Loaded class ru.tehkode.permissions.PermissionManager from PermissionsEx v1.23.4 which is not a depend, softdepend or loadbefore of this plugin.
-[13:00:24] [Server thread/WARN]: [WorldEdit] Loaded class net.milkbowl.vault.permission.Permission from Vault v1.7.3-b${env.TRAVIS_BUILD_NUMBER} which is not a depend, softdepend or loadbefore of this plugin.
-[13:00:24] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[13:00:24] [Server thread/WARN]: 
+[15:03:01] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', name='PROD'
+[15:03:02] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[15:03:03] [Server-Worker-4/INFO]: Loaded 7 recipes
+[15:03:05] [Server thread/INFO]: Starting minecraft server version 1.16.1
+[15:03:05] [Server thread/INFO]: Loading properties
+[15:03:05] [Server thread/INFO]: This server is running Paper version git-Paper-89 (MC: 1.16.1) (Implementing API version 1.16.1-R0.1-SNAPSHOT)
+[15:03:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[15:03:05] [Server thread/INFO]: Using 4 threads for Netty based IO
+[15:03:05] [Server thread/INFO]: Debug logging is disabled
+[15:03:06] [Server thread/INFO]: Default game type: SURVIVAL
+[15:03:06] [Server thread/INFO]: Generating keypair
+[15:03:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:03:06] [Server thread/INFO]: Using epoll channel type
+[15:03:07] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[15:03:10] [Server thread/WARN]: Legacy plugin PermissionsEx v1.23.4 does not specify an api-version.
+[15:03:11] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.1.0;8e55131
+[15:03:12] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@34421d20]
+[15:03:12] [Server thread/INFO]: [PL-Hide] Loading PL-Hide v1.5.11
+[15:03:12] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[15:03:12] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b${env.TRAVIS_BUILD_NUMBER}
+[15:03:12] [Server thread/INFO]: [PvPToggle] Loading PvPToggle v1.7
+[15:03:12] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.1.0-b775
+[15:03:12] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v2.18.2
+[15:03:12] [Server thread/INFO]: [PlayerStatueBuilderX] Loading PlayerStatueBuilderX v1.9
+[15:03:12] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.27-SNAPSHOT (build 2049)
+[15:03:12] [Server thread/INFO]: [ChestCommands] Loading ChestCommands v3.2.0
+[15:03:12] [Server thread/INFO]: [DiscordSRV] Loading DiscordSRV v1.18.4
+[15:03:12] [Server thread/INFO]: [LockettePro] Loading LockettePro v2.9.10
+[15:03:12] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.2.0
+[15:03:12] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.17.2.0
+[15:03:12] [Server thread/INFO]: [EssentialsGeoIP] Loading EssentialsGeoIP v2.17.2.0
+[15:03:12] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.17.2.0
+[15:03:12] [Server thread/INFO]: [EssentialsXMPP] Loading EssentialsXMPP v2.17.2.0
+[15:03:12] [Server thread/INFO]: [Residence] Loading Residence v4.9.1.0
+[15:03:12] [Server thread/INFO]: [QuickShop] Loading QuickShop v4.0.3.2
+[15:03:12] [Server thread/INFO]: [QuickShop] Loading up integration modules.
+[15:03:12] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[15:03:12] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.1.0;8e55131
+[15:03:12] [Server thread/WARN]: [WorldEdit] Loaded class ru.tehkode.permissions.PermissionManager from PermissionsEx v1.23.4 which is not a depend, softdepend or loadbefore of this plugin.
+[15:03:12] [Server thread/WARN]: [WorldEdit] Loaded class net.milkbowl.vault.permission.Permission from Vault v1.7.3-b${env.TRAVIS_BUILD_NUMBER} which is not a depend, softdepend or loadbefore of this plugin.
+[15:03:12] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[15:03:12] [Server thread/WARN]: 
 **********************************************
 ** This WorldEdit version does not fully support your version of Bukkit.
 **
@@ -49,216 +50,246 @@
 ** Please see https://worldedit.enginehub.org/en/latest/faq/#bukkit-adapters
 **********************************************
 
-[13:00:25] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b${env.TRAVIS_BUILD_NUMBER}
-[13:00:25] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.17.2.0 which is not a depend, softdepend or loadbefore of this plugin.
-[13:00:25] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[13:00:25] [Server thread/WARN]: [Vault] Loaded class ru.tehkode.permissions.bukkit.PermissionsEx from PermissionsEx v1.23.4 which is not a depend, softdepend or loadbefore of this plugin.
-[13:00:25] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
-[13:00:25] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[13:00:25] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
-[13:00:25] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b${env.TRAVIS_BUILD_NUMBER}
-[13:00:25] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
-[13:00:25] [Server thread/INFO]: Preparing level "world"
-[13:00:25] [Server thread/INFO]: -------- World Settings For [world] --------
-[13:00:25] [Server thread/INFO]: Experience Merge Radius: 3.0
-[13:00:25] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[13:00:25] [Server thread/INFO]: Cane Growth Modifier: 100%
-[13:00:25] [Server thread/INFO]: Melon Growth Modifier: 100%
-[13:00:25] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[13:00:25] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[13:00:25] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[13:00:25] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[13:00:25] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[13:00:25] [Server thread/INFO]: Potato Growth Modifier: 100%
-[13:00:25] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[13:00:25] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[13:00:25] [Server thread/INFO]: Vine Growth Modifier: 100%
-[13:00:25] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[13:00:25] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[13:00:25] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[13:00:25] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[13:00:25] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[13:00:25] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[13:00:25] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[13:00:25] [Server thread/INFO]: Max TNT Explosions: 100
-[13:00:25] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[13:00:25] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[13:00:25] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[13:00:25] [Server thread/INFO]: View Distance: 10
-[13:00:25] [Server thread/INFO]: Item Merge Radius: 2.5
-[13:00:25] [Server thread/INFO]: Item Despawn Rate: 6000
-[13:00:25] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[13:00:25] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[13:00:25] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[13:00:25] [Server thread/INFO]: Mob Spawn Range: 8
-[13:00:26] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[13:00:26] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[13:00:26] [Server thread/INFO]: Experience Merge Radius: 3.0
-[13:00:26] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[13:00:26] [Server thread/INFO]: Cane Growth Modifier: 100%
-[13:00:26] [Server thread/INFO]: Melon Growth Modifier: 100%
-[13:00:26] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[13:00:26] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[13:00:26] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[13:00:26] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[13:00:26] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[13:00:26] [Server thread/INFO]: Potato Growth Modifier: 100%
-[13:00:26] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[13:00:26] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[13:00:26] [Server thread/INFO]: Vine Growth Modifier: 100%
-[13:00:26] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[13:00:26] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[13:00:26] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[13:00:26] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[13:00:26] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[13:00:26] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[13:00:26] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[13:00:26] [Server thread/INFO]: Max TNT Explosions: 100
-[13:00:26] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[13:00:26] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[13:00:26] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[13:00:26] [Server thread/INFO]: View Distance: 10
-[13:00:26] [Server thread/INFO]: Item Merge Radius: 2.5
-[13:00:26] [Server thread/INFO]: Item Despawn Rate: 6000
-[13:00:26] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[13:00:26] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[13:00:26] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[13:00:26] [Server thread/INFO]: Mob Spawn Range: 8
-[13:00:26] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[13:00:26] [Server thread/INFO]: Experience Merge Radius: 3.0
-[13:00:26] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[13:00:26] [Server thread/INFO]: Cane Growth Modifier: 100%
-[13:00:26] [Server thread/INFO]: Melon Growth Modifier: 100%
-[13:00:26] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[13:00:26] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[13:00:26] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[13:00:26] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[13:00:26] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[13:00:26] [Server thread/INFO]: Potato Growth Modifier: 100%
-[13:00:26] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[13:00:26] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[13:00:26] [Server thread/INFO]: Vine Growth Modifier: 100%
-[13:00:26] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[13:00:26] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[13:00:26] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[13:00:26] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[13:00:26] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[13:00:26] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[13:00:26] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[13:00:26] [Server thread/INFO]: Max TNT Explosions: 100
-[13:00:26] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[13:00:26] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[13:00:26] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[13:00:26] [Server thread/INFO]: View Distance: 10
-[13:00:26] [Server thread/INFO]: Item Merge Radius: 2.5
-[13:00:26] [Server thread/INFO]: Item Despawn Rate: 6000
-[13:00:26] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[13:00:26] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[13:00:26] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[13:00:26] [Server thread/INFO]: Mob Spawn Range: 8
-[13:00:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:00:28] [Server thread/INFO]: Loaded 0 spawn chunks for world world
-[13:00:28] [Server thread/INFO]: Preparing spawn area: 0%
-[13:00:28] [Server thread/INFO]: Preparing spawn area: 0%
-[13:00:28] [Server thread/INFO]: Preparing spawn area: 0%
-[13:00:28] [Server thread/INFO]: Time elapsed: 1368 ms
-[13:00:28] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[13:00:29] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
-[13:00:29] [Server thread/INFO]: Preparing spawn area: 0%
-[13:00:29] [Server thread/INFO]: Preparing spawn area: 0%
-[13:00:29] [Server thread/INFO]: Preparing spawn area: 0%
-[13:00:30] [Server thread/INFO]: Preparing spawn area: 0%
-[13:00:30] [Server thread/INFO]: Preparing spawn area: 0%
-[13:00:30] [Server thread/INFO]: Time elapsed: 2142 ms
-[13:00:30] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[13:00:31] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
-[13:00:31] [Server thread/INFO]: Preparing spawn area: 0%
-[13:00:31] [Server thread/INFO]: Preparing spawn area: 0%
-[13:00:31] [Server thread/INFO]: Preparing spawn area: 0%
-[13:00:32] [Server thread/INFO]: Time elapsed: 1381 ms
-[13:00:32] [Server thread/INFO]: [PL-Hide] Enabling PL-Hide v1.5.11
-[13:00:32] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4*
-[13:00:32] [Server thread/INFO]: [PermissionsEx] Initializing file backend
-[13:00:32] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
-[13:00:32] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
-[13:00:32] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
-[13:00:32] [Server thread/INFO]: [Vault] [Vault][Chat] PermissionsEx_Chat hooked.
-[13:00:32] [Server thread/INFO]: [PvPToggle] Enabling PvPToggle v1.7
-[13:00:32] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.1.0-b775
-[13:00:32] [Server thread/WARN]: [Multiverse-Core] Loaded class net.milkbowl.vault.economy.Economy from Vault v1.7.3-b${env.TRAVIS_BUILD_NUMBER} which is not a depend, softdepend or loadbefore of this plugin.
-[13:00:32] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.1.0-b775" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [Rigby, fernferret, lithium3141, main--, dumptruckman].
-[13:00:32] [Server thread/INFO]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do. The performance impact is negligible.
-[13:00:32] [Server thread/INFO]: -------- World Settings For [survive_world] --------
-[13:00:32] [Server thread/INFO]: Experience Merge Radius: 3.0
-[13:00:32] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[13:00:32] [Server thread/INFO]: Cane Growth Modifier: 100%
-[13:00:32] [Server thread/INFO]: Melon Growth Modifier: 100%
-[13:00:32] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[13:00:32] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[13:00:32] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[13:00:32] [Server thread/INFO]: Beetroot Growth Modifier: 100%
-[13:00:32] [Server thread/INFO]: Carrot Growth Modifier: 100%
-[13:00:32] [Server thread/INFO]: Potato Growth Modifier: 100%
-[13:00:32] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[13:00:32] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[13:00:32] [Server thread/INFO]: Vine Growth Modifier: 100%
-[13:00:32] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[13:00:32] [Server thread/INFO]: Bamboo Growth Modifier: 100%
-[13:00:32] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
-[13:00:32] [Server thread/INFO]: Kelp Growth Modifier: 100%
-[13:00:32] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[13:00:32] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[13:00:32] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[13:00:32] [Server thread/INFO]: Max TNT Explosions: 100
-[13:00:32] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[13:00:32] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[13:00:32] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[13:00:32] [Server thread/INFO]: View Distance: 10
-[13:00:32] [Server thread/INFO]: Item Merge Radius: 2.5
-[13:00:32] [Server thread/INFO]: Item Despawn Rate: 6000
-[13:00:32] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[13:00:32] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[13:00:32] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[13:00:32] [Server thread/INFO]: Mob Spawn Range: 8
-[13:00:33] [Server thread/INFO]: Preparing start region for dimension minecraft:survive_world
-[13:00:33] [Server thread/INFO]: Loaded 0 spawn chunks for world survive_world
-[13:00:33] [Server thread/INFO]: Preparing spawn area: 0%
-[13:00:33] [Server thread/INFO]: Time elapsed: 247 ms
-[13:00:33] [Server thread/INFO]: [Multiverse-Core] 4 - World(s) loaded.
-[13:00:34] [Server thread/WARN]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[13:00:35] [Server thread/INFO]: [Multiverse-Core] Version 4.1.0-b775 (API v24) Enabled - By Rigby, fernferret, lithium3141, main-- and dumptruckman
-[13:00:35] [Server thread/INFO]: [Multiverse-Core] Help dumptruckman keep this project alive. Become a patron! https://www.patreon.com/dumptruckman
-[13:00:35] [Server thread/INFO]: [Multiverse-Core] One time donations are also appreciated: https://www.paypal.me/dumptruckman
-[13:00:35] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
-[13:00:36] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
-[13:00:36] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
-[13:00:36] [Server thread/INFO]: --------------------
-[13:00:36] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
-[13:00:36] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
-[13:00:36] [Server thread/INFO]: --------------------
-[13:00:36] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.27-SNAPSHOT (build 2049)
-[13:00:36] [Thread-11/WARN]: [PermissionsEx] The updater could not find any files for the project id 31279
-[13:00:37] [Server thread/INFO]: [ChestCommands] Enabling ChestCommands v3.2.0
-[13:00:37] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.18.4
-[13:00:37] [Server thread/INFO]: [LockettePro] Enabling LockettePro v2.9.10
-[13:00:37] [Server thread/WARN]: [LockettePro] ===================================
-[13:00:37] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.2.0
-[13:00:37] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
-[13:00:37] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[13:00:37] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[13:00:38] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
-[13:00:38] [Server thread/INFO]: [Essentials] Using 1.13+ flat spawn egg provider as spawn egg provider.
-[13:00:38] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
-[13:00:38] [Server thread/INFO]: [Essentials] Loaded 21018 items from items.json.
-[13:00:38] [Server thread/INFO]: [Essentials] Using locale en
-[13:00:38] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[13:00:38] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[13:00:38] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
-[13:00:38] [Server thread/INFO]: [Essentials] Using Vault based permissions (PermissionsEx)
-[13:00:38] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.17.2.0
-[13:00:38] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.17.2.0
-[13:00:38] [Server thread/ERROR]: [EssentialsGeoIP] No license key found! Please visit https://essentialsx.cf/geoip for first time setup instructions.
-[13:00:38] [Server thread/ERROR]: [EssentialsGeoIP] Failed to read GeoIP database!
+[15:03:13] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b${env.TRAVIS_BUILD_NUMBER}
+[15:03:13] [Server thread/WARN]: [Vault] Loaded class com.earth2me.essentials.api.Economy from Essentials v2.17.2.0 which is not a depend, softdepend or loadbefore of this plugin.
+[15:03:13] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[15:03:13] [Server thread/WARN]: [Vault] Loaded class ru.tehkode.permissions.bukkit.PermissionsEx from PermissionsEx v1.23.4 which is not a depend, softdepend or loadbefore of this plugin.
+[15:03:13] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[15:03:13] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[15:03:13] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[15:03:13] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b${env.TRAVIS_BUILD_NUMBER}
+[15:03:13] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[15:03:13] [Server thread/INFO]: Preparing level "world"
+[15:03:13] [Server thread/INFO]: -------- World Settings For [world] --------
+[15:03:13] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:03:13] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:03:13] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:03:13] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:03:13] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:03:13] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:03:13] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:03:13] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:03:13] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:03:13] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:03:13] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:03:13] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:03:13] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:03:13] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:03:13] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:03:13] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:03:13] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:03:13] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[15:03:13] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:03:13] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:03:13] [Server thread/INFO]: Max TNT Explosions: 100
+[15:03:13] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:03:13] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:03:13] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:03:13] [Server thread/INFO]: View Distance: 10
+[15:03:13] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:03:13] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:03:13] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:03:13] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:03:13] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:03:13] [Server thread/INFO]: Mob Spawn Range: 8
+[15:03:13] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[15:03:14] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[15:03:14] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:03:14] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:03:14] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:03:14] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:03:14] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:03:14] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:03:14] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:03:14] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:03:14] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:03:14] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:03:14] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:03:14] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:03:14] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:03:14] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:03:14] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:03:14] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:03:14] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:03:14] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[15:03:14] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:03:14] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:03:14] [Server thread/INFO]: Max TNT Explosions: 100
+[15:03:14] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:03:14] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:03:14] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:03:14] [Server thread/INFO]: View Distance: 10
+[15:03:14] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:03:14] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:03:14] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:03:14] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:03:14] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:03:14] [Server thread/INFO]: Mob Spawn Range: 8
+[15:03:14] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[15:03:14] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:03:14] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:03:14] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:03:14] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:03:14] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:03:14] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:03:14] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:03:14] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:03:14] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:03:14] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:03:14] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:03:14] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:03:14] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:03:14] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:03:14] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:03:14] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:03:14] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:03:14] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[15:03:14] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:03:14] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:03:14] [Server thread/INFO]: Max TNT Explosions: 100
+[15:03:14] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:03:14] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:03:14] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:03:14] [Server thread/INFO]: View Distance: 10
+[15:03:14] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:03:14] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:03:14] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:03:14] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:03:14] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:03:14] [Server thread/INFO]: Mob Spawn Range: 8
+[15:03:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:03:15] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[15:03:15] [Server thread/INFO]: Preparing spawn area: 0%
+[15:03:15] [Server thread/INFO]: Preparing spawn area: 0%
+[15:03:15] [Server thread/INFO]: Preparing spawn area: 0%
+[15:03:16] [Server thread/INFO]: Preparing spawn area: 0%
+[15:03:16] [Server thread/INFO]: Time elapsed: 1902 ms
+[15:03:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[15:03:17] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[15:03:17] [Server thread/INFO]: Preparing spawn area: 0%
+[15:03:17] [Server thread/INFO]: Preparing spawn area: 0%
+[15:03:17] [Server thread/INFO]: Preparing spawn area: 0%
+[15:03:17] [Server thread/INFO]: Time elapsed: 1018 ms
+[15:03:17] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[15:03:17] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[15:03:17] [Server thread/INFO]: Time elapsed: 61 ms
+[15:03:17] [Server thread/INFO]: [PL-Hide] Enabling PL-Hide v1.5.11
+[15:03:17] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4*
+[15:03:17] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[15:03:17] [Server thread/INFO]: [PermissionsEx] Permissions file successfully reloaded
+[15:03:18] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[15:03:18] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[15:03:18] [Server thread/INFO]: [Vault] [Vault][Chat] PermissionsEx_Chat hooked.
+[15:03:18] [Server thread/INFO]: [PvPToggle] Enabling PvPToggle v1.7
+[15:03:18] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.1.0-b775
+[15:03:18] [Server thread/WARN]: [Multiverse-Core] Loaded class net.milkbowl.vault.economy.Economy from Vault v1.7.3-b${env.TRAVIS_BUILD_NUMBER} which is not a depend, softdepend or loadbefore of this plugin.
+[15:03:18] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.1.0-b775" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [Rigby, fernferret, lithium3141, main--, dumptruckman].
+[15:03:18] [Server thread/INFO]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do. The performance impact is negligible.
+[15:03:18] [Server thread/INFO]: -------- World Settings For [survive_world] --------
+[15:03:18] [Server thread/INFO]: Experience Merge Radius: 3.0
+[15:03:18] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[15:03:18] [Server thread/INFO]: Cane Growth Modifier: 100%
+[15:03:18] [Server thread/INFO]: Melon Growth Modifier: 100%
+[15:03:18] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[15:03:18] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[15:03:18] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[15:03:18] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[15:03:18] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[15:03:18] [Server thread/INFO]: Potato Growth Modifier: 100%
+[15:03:18] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[15:03:18] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[15:03:18] [Server thread/INFO]: Vine Growth Modifier: 100%
+[15:03:18] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[15:03:18] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[15:03:18] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[15:03:18] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[15:03:18] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[15:03:18] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[15:03:18] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[15:03:18] [Server thread/INFO]: Max TNT Explosions: 100
+[15:03:18] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[15:03:18] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[15:03:18] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[15:03:18] [Server thread/INFO]: View Distance: 10
+[15:03:18] [Server thread/INFO]: Item Merge Radius: 2.5
+[15:03:18] [Server thread/INFO]: Item Despawn Rate: 6000
+[15:03:18] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[15:03:18] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[15:03:18] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[15:03:18] [Server thread/INFO]: Mob Spawn Range: 8
+[15:03:18] [Server thread/INFO]: Preparing start region for dimension minecraft:survive_world
+[15:03:18] [Server thread/INFO]: Loaded 0 spawn chunks for world survive_world
+[15:03:18] [Server thread/INFO]: Preparing spawn area: 0%
+[15:03:19] [Server thread/INFO]: Preparing spawn area: 0%
+[15:03:19] [Server thread/INFO]: Preparing spawn area: 0%
+[15:03:20] [Server thread/INFO]: Preparing spawn area: 0%
+[15:03:20] [Server thread/INFO]: Preparing spawn area: 88%
+[15:03:20] [Server thread/INFO]: Time elapsed: 2009 ms
+[15:03:20] [Server thread/INFO]: [Multiverse-Core] 4 - World(s) loaded.
+[15:03:21] [Server thread/WARN]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[15:03:21] [Thread-11/WARN]: [PermissionsEx] The updater could not find any files for the project id 31279
+[15:03:21] [Server thread/INFO]: [Multiverse-Core] Version 4.1.0-b775 (API v24) Enabled - By Rigby, fernferret, lithium3141, main-- and dumptruckman
+[15:03:21] [Server thread/INFO]: [Multiverse-Core] Help dumptruckman keep this project alive. Become a patron! https://www.patreon.com/dumptruckman
+[15:03:21] [Server thread/INFO]: [Multiverse-Core] One time donations are also appreciated: https://www.paypal.me/dumptruckman
+[15:03:21] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v2.18.2
+[15:03:22] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[15:03:22] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[15:03:22] [Server thread/INFO]: --------------------
+[15:03:22] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Check out CoreEdit!
+[15:03:22] [Server thread/INFO]: [CoreProtect] Download: www.coreedit.net/download/
+[15:03:22] [Server thread/INFO]: --------------------
+[15:03:22] [Server thread/INFO]: [PlayerStatueBuilderX] Enabling PlayerStatueBuilderX v1.9
+[15:03:22] [Server thread/INFO]: [PlayerStatueBuilderX]: Config.yml not found, creating!
+[15:03:22] [Server thread/WARN]: [PlayerStatueBuilderX] Loaded class com.sk89q.worldedit.extension.platform.Actor from WorldEdit v7.1.0;8e55131 which is not a depend, softdepend or loadbefore of this plugin.
+[15:03:22] [Server thread/INFO]: [PlayerStatueBuilderX]: Vault detected!
+[15:03:22] [Server thread/INFO]: [PlayerStatueBuilderX]: Loading texture /chainmail_armor.png
+[15:03:22] [Server thread/INFO]: [PlayerStatueBuilderX]: Loading texture /iron_armor.png
+[15:03:22] [Server thread/INFO]: [PlayerStatueBuilderX]: Loading texture /golden_armor.png
+[15:03:22] [Server thread/INFO]: [PlayerStatueBuilderX]: Loading texture /diamond_armor.png
+[15:03:22] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.27-SNAPSHOT (build 2049)
+[15:03:23] [Server thread/INFO]: [ChestCommands] Enabling ChestCommands v3.2.0
+[15:03:23] [Server thread/INFO]: [DiscordSRV] Enabling DiscordSRV v1.18.4
+[15:03:23] [Server thread/INFO]: [LockettePro] Enabling LockettePro v2.9.10
+[15:03:23] [Server thread/WARN]: [LockettePro] ===================================
+[15:03:23] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.2.0
+[15:03:23] [Server thread/ERROR]: [Essentials] You are running an unsupported server version!
+[15:03:23] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[15:03:23] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[15:03:23] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[15:03:23] [Server thread/INFO]: [Essentials] Using 1.13+ flat spawn egg provider as spawn egg provider.
+[15:03:23] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[15:03:24] [Server thread/INFO]: [Essentials] Loaded 21018 items from items.json.
+[15:03:24] [Server thread/INFO]: [Essentials] Using locale zh_TW
+[15:03:24] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[15:03:24] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[15:03:24] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[15:03:24] [Server thread/INFO]: [Essentials] Using Vault based permissions (PermissionsEx)
+[15:03:24] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.17.2.0
+[15:03:24] [Server thread/INFO]: [EssentialsGeoIP] Enabling EssentialsGeoIP v2.17.2.0
+[15:03:24] [Server thread/WARN]: [Essentials] Missing translation key "geoIpLicenseMissing" in translation file zh_TW
+java.util.MissingResourceException: Can't find resource for bundle java.util.PropertyResourceBundle, key geoIpLicenseMissing
+	at java.util.ResourceBundle.getObject(ResourceBundle.java:564) ~[?:?]
+	at java.util.ResourceBundle.getObject(ResourceBundle.java:558) ~[?:?]
+	at java.util.ResourceBundle.getObject(ResourceBundle.java:558) ~[?:?]
+	at java.util.ResourceBundle.getString(ResourceBundle.java:521) ~[?:?]
+	at com.earth2me.essentials.I18n.translate(I18n.java:64) ~[?:?]
+	at com.earth2me.essentials.I18n.tl(I18n.java:77) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.downloadDatabase(EssentialsGeoIPPlayerListener.java:181) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.reloadConfig(EssentialsGeoIPPlayerListener.java:141) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIPPlayerListener.<init>(EssentialsGeoIPPlayerListener.java:43) ~[?:?]
+	at com.earth2me.essentials.geoip.EssentialsGeoIP.onEnable(EssentialsGeoIP.java:31) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[patched_1.16.1.jar:git-Paper-89]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:380) ~[patched_1.16.1.jar:git-Paper-89]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:483) ~[patched_1.16.1.jar:git-Paper-89]
+	at org.bukkit.craftbukkit.v1_16_R1.CraftServer.enablePlugin(CraftServer.java:500) ~[patched_1.16.1.jar:git-Paper-89]
+	at org.bukkit.craftbukkit.v1_16_R1.CraftServer.enablePlugins(CraftServer.java:414) ~[patched_1.16.1.jar:git-Paper-89]
+	at net.minecraft.server.v1_16_R1.MinecraftServer.loadWorld(MinecraftServer.java:471) ~[patched_1.16.1.jar:git-Paper-89]
+	at net.minecraft.server.v1_16_R1.DedicatedServer.init(DedicatedServer.java:241) ~[patched_1.16.1.jar:git-Paper-89]
+	at net.minecraft.server.v1_16_R1.MinecraftServer.v(MinecraftServer.java:940) ~[patched_1.16.1.jar:git-Paper-89]
+	at net.minecraft.server.v1_16_R1.MinecraftServer.lambda$a$0(MinecraftServer.java:177) ~[patched_1.16.1.jar:git-Paper-89]
+	at java.lang.Thread.run(Thread.java:834) [?:?]
+[15:03:24] [Server thread/ERROR]: [EssentialsGeoIP] No license key found! Please visit https://essentialsx.cf/geoip for first time setup instructions.
+[15:03:24] [Server thread/ERROR]: [EssentialsGeoIP] GeoIP資料庫讀取失敗!
 java.io.FileNotFoundException: plugins/EssentialsGeoIP/GeoIP2-Country.mmdb (No such file or directory)
 	at java.io.RandomAccessFile.open0(Native Method) ~[?:?]
 	at java.io.RandomAccessFile.open(RandomAccessFile.java:345) ~[?:?]
@@ -282,42 +313,50 @@ java.io.FileNotFoundException: plugins/EssentialsGeoIP/GeoIP2-Country.mmdb (No s
 	at net.minecraft.server.v1_16_R1.MinecraftServer.v(MinecraftServer.java:940) ~[patched_1.16.1.jar:git-Paper-89]
 	at net.minecraft.server.v1_16_R1.MinecraftServer.lambda$a$0(MinecraftServer.java:177) ~[patched_1.16.1.jar:git-Paper-89]
 	at java.lang.Thread.run(Thread.java:834) [?:?]
-[13:00:38] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/.
-[13:00:38] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.17.2.0
-[13:00:38] [Server thread/INFO]: [EssentialsXMPP] Enabling EssentialsXMPP v2.17.2.0
-[13:00:38] [Server thread/WARN]: [EssentialsXMPP] config broken for xmpp
-[13:00:38] [Server thread/INFO]: [Residence] Enabling Residence v4.9.1.0
-[13:00:39] [Server thread/INFO]: [Residence] Found Vault using permissions plugin:PermissionsEx
-[13:00:39] [Server thread/INFO]: [Residence] Scanning for economy systems...
-[13:00:39] [Server thread/INFO]: [Residence] Found Vault using economy system: Essentials Economy
-[13:00:40] [Server thread/INFO]: [Residence] Loading save data for world world...
-[13:00:40] [Server thread/INFO]: [Residence] Loaded world data. (17 ms)
-[13:00:40] [Server thread/INFO]: [Residence] Loading save data for world world_nether...
-[13:00:40] [Server thread/INFO]: [Residence] Loaded world_nether data. (0 ms)
-[13:00:40] [Server thread/INFO]: [Residence] Loading save data for world world_the_end...
-[13:00:40] [Server thread/INFO]: [Residence] Loaded world_the_end data. (1 ms)
-[13:00:40] [Server thread/INFO]: [Residence] Loading save data for world survive_world...
-[13:00:40] [Server thread/INFO]: [Residence] Loaded survive_world data. (1 ms)
-[13:00:40] [Server thread/INFO]: [Residence] Loading world data into memory...
-[13:00:40] [Server thread/INFO]: [Residence] Loaded world data into memory. (29 ms) -> 1 residences
-[13:00:40] [Server thread/INFO]: [Residence] Loading world_nether data into memory...
-[13:00:40] [Server thread/INFO]: [Residence] Loaded world_nether data into memory. (0 ms) -> 0 residences
-[13:00:40] [Server thread/INFO]: [Residence] Loading world_the_end data into memory...
-[13:00:40] [Server thread/INFO]: [Residence] Loaded world_the_end data into memory. (0 ms) -> 0 residences
-[13:00:40] [Server thread/INFO]: [Residence] Loading survive_world data into memory...
-[13:00:40] [Server thread/INFO]: [Residence] Loaded survive_world data into memory. (2 ms) -> 1 residences
-[13:00:40] [Server thread/INFO]: [Residence] Found WorldEdit 7.1.0;8e55131
-[13:00:40] [Server thread/INFO]: [Residence] Enabled! Version 4.9.1.0 by Zrips
-[13:00:40] [Server thread/INFO]: [QuickShop] Enabling QuickShop v4.0.3.2
-[13:00:40] [Server thread/INFO]: [QuickShop] Quickshop Reremake
-[13:00:40] [Server thread/INFO]: [QuickShop] Running QuickShop-Reremake on NMS version v1_16_R1 For Minecraft version 1.16.1
-[13:00:40] [Server thread/INFO]: [QuickShop] Reading the configuration...
-[13:00:40] [Server thread/INFO]: [QuickShop] Developers: BukkitCommonsStudio, Netherfoam, Timtower, KaiNoMood, Ghost_chu, Mgazul, TiaraRinne
-[13:00:40] [Server thread/INFO]: [QuickShop] Original author: Netherfoam, Timtower, KaiNoMood
-[13:00:40] [Server thread/INFO]: [QuickShop] Let's start loading the plugin
-[13:00:41] [Server thread/INFO]: [QuickShop] Loading plugin translations files...
-[13:00:41] [Thread-16/INFO]: [QuickShop] Downloading version manifest...
-[13:00:42] [DiscordSRV - Initialization/WARN]: [DiscordSRV] 
+[15:03:24] [Server thread/INFO]: [EssentialsGeoIP] This product includes GeoLite2 data created by MaxMind, available from http://www.maxmind.com/.
+[15:03:24] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.17.2.0
+[15:03:24] [Server thread/INFO]: [EssentialsXMPP] Enabling EssentialsXMPP v2.17.2.0
+[15:03:24] [Server thread/WARN]: [EssentialsXMPP] config broken for xmpp
+[15:03:24] [Server thread/INFO]: [Residence] Enabling Residence v4.9.1.0
+[15:03:25] [Server thread/INFO]: [Residence] Found Vault using permissions plugin:PermissionsEx
+[15:03:25] [Server thread/INFO]: [Residence] Scanning for economy systems...
+[15:03:25] [Server thread/INFO]: [Residence] Found Vault using economy system: Essentials Economy
+[15:03:25] [Server thread/INFO]: [Residence] Loading save data for world world...
+[15:03:25] [Server thread/INFO]: [Residence] Loaded world data. (2 ms)
+[15:03:25] [Server thread/INFO]: [Residence] Loading save data for world world_nether...
+[15:03:25] [Server thread/INFO]: [Residence] Loaded world_nether data. (1 ms)
+[15:03:25] [Server thread/INFO]: [Residence] Loading save data for world world_the_end...
+[15:03:25] [Server thread/INFO]: [Residence] Loaded world_the_end data. (1 ms)
+[15:03:25] [Server thread/INFO]: [Residence] Loading save data for world survive_world...
+[15:03:25] [Server thread/INFO]: [Residence] Loaded survive_world data. (0 ms)
+[15:03:25] [Server thread/INFO]: [Residence] Loading world data into memory...
+[15:03:25] [Server thread/INFO]: [Residence] Loaded world data into memory. (0 ms) -> 0 residences
+[15:03:25] [Server thread/INFO]: [Residence] Loading world_nether data into memory...
+[15:03:25] [Server thread/INFO]: [Residence] Loaded world_nether data into memory. (0 ms) -> 0 residences
+[15:03:25] [Server thread/INFO]: [Residence] Loading world_the_end data into memory...
+[15:03:25] [Server thread/INFO]: [Residence] Loaded world_the_end data into memory. (0 ms) -> 0 residences
+[15:03:25] [Server thread/INFO]: [Residence] Loading survive_world data into memory...
+[15:03:25] [Server thread/INFO]: [Residence] Loaded survive_world data into memory. (0 ms) -> 0 residences
+[15:03:25] [Server thread/INFO]: [Residence] Found WorldEdit 7.1.0;8e55131
+[15:03:25] [Server thread/INFO]: [Residence] Enabled! Version 4.9.1.0 by Zrips
+[15:03:25] [Server thread/INFO]: [QuickShop] Enabling QuickShop v4.0.3.2
+[15:03:25] [Server thread/INFO]: [QuickShop] Quickshop Reremake
+[15:03:25] [Server thread/INFO]: [QuickShop] Running QuickShop-Reremake on NMS version v1_16_R1 For Minecraft version 1.16.1
+[15:03:25] [Server thread/INFO]: [QuickShop] Reading the configuration...
+[15:03:25] [Server thread/INFO]: [QuickShop] Developers: BukkitCommonsStudio, Netherfoam, Timtower, KaiNoMood, Ghost_chu, Mgazul, TiaraRinne
+[15:03:25] [Server thread/INFO]: [QuickShop] Original author: Netherfoam, Timtower, KaiNoMood
+[15:03:25] [Server thread/INFO]: [QuickShop] Let's start loading the plugin
+[15:03:25] [Server thread/INFO]: [QuickShop] Loading plugin translations files...
+[15:03:26] [Thread-16/INFO]: [QuickShop] Downloading version manifest...
+[15:03:27] [Thread-16/INFO]: [QuickShop] Downloading version index...
+[15:03:27] [Thread-16/WARN]: [QuickShop] Cannot get file hash for language en_, fallback to en_us...
+[15:03:27] [Thread-16/WARN]: [QuickShop] Cannot download require files, some items/blocks/potions/enchs language will use default English name.
+[15:03:28] [Server thread/INFO]: [QuickShop] Translator: Ghost_chu, Andre_601
+[15:03:28] [Server thread/INFO]: [QuickShop] Contributors: Timtower, Netherfoam, KaiNoMood, Mgazul, JackTheChicken and Andre_601
+[15:03:28] [Server thread/INFO]: [QuickShop] Language Zone: English (en_US)
+[15:03:28] [Server thread/INFO]: [QuickShop] Completed to load plugin translations files.
+[15:03:28] [Server thread/INFO]: [QuickShop] Starting loading items translation...
+[15:03:28] [DiscordSRV - Initialization/WARN]: [DiscordSRV] 
 
 The current build of DiscordSRV is outdated by 674 commits! Get the latest build at your favorite distribution center.
 
@@ -325,64 +364,56 @@ Spigot: https://www.spigotmc.org/resources/discordsrv.18494/
 Bukkit Dev: http://dev.bukkit.org/bukkit-plugins/discordsrv/
 Source: https://github.com/DiscordSRV/DiscordSRV
 
-[13:00:42] [DiscordSRV - Initialization/INFO]: [DiscordSRV] ===============================================================================
-[13:00:42] [DiscordSRV - Initialization/INFO]: [DiscordSRV]          Need a server host? Try PebbleHost! Plans starting at $1/GB!
-[13:00:42] [DiscordSRV - Initialization/INFO]: [DiscordSRV]  Use promo code "DISCORDSRV" at checkout for 15% off your first three bills!
-[13:00:42] [DiscordSRV - Initialization/INFO]: [DiscordSRV] ===============================================================================
-[13:00:42] [Thread-16/INFO]: [QuickShop] Downloading version index...
-[13:00:43] [Thread-16/WARN]: [QuickShop] Cannot get file hash for language en_, fallback to en_us...
-[13:00:43] [Thread-16/WARN]: [QuickShop] Cannot download require files, some items/blocks/potions/enchs language will use default English name.
-[13:00:44] [Server thread/INFO]: [QuickShop] Translator: Ghost_chu, Andre_601
-[13:00:44] [Server thread/INFO]: [QuickShop] Contributors: Timtower, Netherfoam, KaiNoMood, Mgazul, JackTheChicken and Andre_601
-[13:00:44] [Server thread/INFO]: [QuickShop] Language Zone: English (en_US)
-[13:00:44] [Server thread/INFO]: [QuickShop] Completed to load plugin translations files.
-[13:00:44] [Server thread/INFO]: [QuickShop] Starting loading items translation...
-[13:00:44] [Server thread/INFO]: [QuickShop] Complete to load items translation.
-[13:00:44] [Server thread/INFO]: [QuickShop] Starting loading enchantments translation...
-[13:00:44] [Server thread/INFO]: [QuickShop] Complete to load enchantments translation.
-[13:00:44] [Server thread/INFO]: [QuickShop] Starting loading potions translation...
-[13:00:44] [Server thread/INFO]: [QuickShop] Complete to load potions effect translation.
-[13:00:44] [Server thread/INFO]: [QuickShop] Selected permission provider: Bukkit
-[13:00:44] [Server thread/INFO]: [QuickShop] Loading shops from the database...
-[13:00:44] [Server thread/INFO]: [QuickShop] Used 3ms to fetch all shops from the database.
-[13:00:44] [Server thread/INFO]: [QuickShop] Successfully loaded 0 shops! (Used 3ms, Avg 0ms per shop)
-[13:00:44] [Server thread/INFO]: [QuickShop] 0 shops will load after chunk have loaded, 0 shops will load after the world has loaded.
-[13:00:44] [Server thread/INFO]: [QuickShop] Registering Listeners...
-[13:00:44] [Server thread/INFO]: [QuickShop] Registering DisplayCheck task....
-[13:00:44] [Server thread/INFO]: [QuickShop] Cleaning MsgUtils...
-[13:00:44] [Server thread/INFO]: [QuickShop] Cleaning purchase messages from the database that are over a week old...
-[13:00:44] [Server thread/INFO]: [QuickShop] Registering UpdateWatcher...
-[13:00:44] [Server thread/INFO]: [QuickShop] QuickShop Loaded! 3893 ms.
-[13:00:44] [Server thread/INFO]: [QuickShop] Log actions is enabled, actions will log in the qs.log file!
-[13:00:44] [Server thread/INFO]: Running delayed init tasks
-[13:00:45] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
-[13:00:45] [Server thread/INFO]: [ChestCommands] Found a new version: v3.3.1 (yours: v3.2.0)
-[13:00:45] [Server thread/INFO]: [ChestCommands] Download it on Bukkit Dev:
-[13:00:45] [Server thread/INFO]: [ChestCommands] dev.bukkit.org/bukkit-plugins/chest-commands
-[13:00:45] [Server thread/INFO]: [QuickShop] Registering BStats Mertics...
-[13:00:45] [Server thread/INFO]: [QuickShop] Metrics submitted.
-[13:00:45] [Craft Scheduler Thread - 10/INFO]: [Vault] Checking for Updates ... 
-[13:00:45] [Craft Scheduler Thread - 7/INFO]: *********************** Residence **************************
-[13:00:45] [Craft Scheduler Thread - 7/INFO]: * 4.9.1.2 is now available! Your version: 4.9.1.0
-[13:00:45] [Craft Scheduler Thread - 7/INFO]: * https://www.spigotmc.org/resources/residence.11480/
-[13:00:45] [Craft Scheduler Thread - 7/INFO]: ************************************************************
-[13:00:45] [Server thread/INFO]: [Citizens] Loaded 1 NPCs.
-[13:00:45] [Server thread/INFO]: [QuickShop] Using economy system: Essentials Economy
-[13:00:45] [Server thread/INFO]: Pl-Hide ▎ Update available: 1.5.15. You are on 1.5.11!
-[13:00:45] [Server thread/INFO]: Pl-Hide ▎ Spigot: https://www.spigotmc.org/resources/68767/
-[13:00:45] [Server thread/INFO]: Done (30.398s)! For help, type "help"
-[13:00:45] [Server thread/INFO]: Timings Reset
-[13:00:46] [Craft Scheduler Thread - 10/INFO]: [Vault] Stable Version: 1.7.2 | Current Version: 1.7.3
-[13:00:46] [DiscordSRV - Initialization/ERROR]: [DiscordSRV] DiscordSRV failed to connect to Discord. Reason: The provided token is invalid!
-[13:00:47] [Thread-18/INFO]: --------------------
-[13:00:47] [Thread-18/INFO]: [CoreProtect] Version 19.0 is now available.
-[13:00:47] [Thread-18/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
-[13:00:47] [Thread-18/INFO]: [CoreProtect] Sponsor: www.hosthorde.com
-[13:00:47] [Thread-18/INFO]: --------------------
-[13:00:54] [User Authenticator #1/INFO]: UUID of player amdYes_intelNO is db345d89-6f26-450e-96f7-7112da42da62
-[13:00:55] [Server thread/INFO]: amdYes_intelNO joined the game
-[13:00:55] [Server thread/INFO]: amdYes_intelNO[/127.0.0.1:13367] logged in with entity id 514 at ([world]167.46135963143863, 68.0, -184.58480652540607)
-[13:00:56] [Server thread/WARN]: [Essentials] Task #16003 for Essentials v2.17.2.0 generated an exception
+[15:03:28] [Server thread/INFO]: [QuickShop] Complete to load items translation.
+[15:03:28] [Server thread/INFO]: [QuickShop] Starting loading enchantments translation...
+[15:03:28] [Server thread/INFO]: [QuickShop] Complete to load enchantments translation.
+[15:03:28] [Server thread/INFO]: [QuickShop] Starting loading potions translation...
+[15:03:28] [Server thread/INFO]: [QuickShop] Complete to load potions effect translation.
+[15:03:28] [Server thread/INFO]: [QuickShop] Selected permission provider: Bukkit
+[15:03:28] [DiscordSRV - Initialization/INFO]: [DiscordSRV] ===============================================================================
+[15:03:28] [DiscordSRV - Initialization/INFO]: [DiscordSRV]          Need a server host? Try PebbleHost! Plans starting at $1/GB!
+[15:03:28] [DiscordSRV - Initialization/INFO]: [DiscordSRV]  Use promo code "DISCORDSRV" at checkout for 15% off your first three bills!
+[15:03:28] [DiscordSRV - Initialization/INFO]: [DiscordSRV] ===============================================================================
+[15:03:28] [Server thread/INFO]: [QuickShop] Loading shops from the database...
+[15:03:28] [Server thread/INFO]: [QuickShop] Used 0ms to fetch all shops from the database.
+[15:03:28] [Server thread/INFO]: [QuickShop] Successfully loaded 0 shops! (Used 1ms, Avg 0ms per shop)
+[15:03:28] [Server thread/INFO]: [QuickShop] 0 shops will load after chunk have loaded, 0 shops will load after the world has loaded.
+[15:03:28] [Server thread/INFO]: [QuickShop] Registering Listeners...
+[15:03:28] [Server thread/INFO]: [QuickShop] Registering DisplayCheck task....
+[15:03:28] [Server thread/INFO]: [QuickShop] Cleaning MsgUtils...
+[15:03:28] [Server thread/INFO]: [QuickShop] Cleaning purchase messages from the database that are over a week old...
+[15:03:28] [Server thread/INFO]: [QuickShop] Registering UpdateWatcher...
+[15:03:28] [Server thread/INFO]: [QuickShop] QuickShop Loaded! 2591 ms.
+[15:03:28] [Server thread/INFO]: [QuickShop] Log actions is enabled, actions will log in the qs.log file!
+[15:03:28] [Server thread/INFO]: Running delayed init tasks
+[15:03:28] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
+[15:03:28] [Server thread/INFO]: [ChestCommands] Found a new version: v3.3.1 (yours: v3.2.0)
+[15:03:28] [Server thread/INFO]: [ChestCommands] Download it on Bukkit Dev:
+[15:03:28] [Server thread/INFO]: [ChestCommands] dev.bukkit.org/bukkit-plugins/chest-commands
+[15:03:28] [Server thread/INFO]: [QuickShop] Registering BStats Mertics...
+[15:03:28] [Craft Scheduler Thread - 9/INFO]: [Vault] Checking for Updates ... 
+[15:03:28] [Server thread/INFO]: [QuickShop] Metrics submitted.
+[15:03:29] [Server thread/INFO]: [Citizens] Loaded 0 NPCs.
+[15:03:29] [Server thread/INFO]: [QuickShop] Using economy system: Essentials Economy
+[15:03:29] [Craft Scheduler Thread - 9/INFO]: [Vault] Stable Version: 1.7.2 | Current Version: 1.7.3
+[15:03:29] [Server thread/INFO]: Done (24.066s)! For help, type "help"
+[15:03:29] [Server thread/INFO]: Timings Reset
+[15:03:29] [Craft Scheduler Thread - 6/INFO]: *********************** Residence **************************
+[15:03:29] [Craft Scheduler Thread - 6/INFO]: * 4.9.1.2 is now available! Your version: 4.9.1.0
+[15:03:29] [Craft Scheduler Thread - 6/INFO]: * https://www.spigotmc.org/resources/residence.11480/
+[15:03:29] [Craft Scheduler Thread - 6/INFO]: ************************************************************
+[15:03:30] [Server thread/INFO]: Pl-Hide ▎ Update available: 1.5.15. You are on 1.5.11!
+[15:03:30] [Server thread/INFO]: Pl-Hide ▎ Spigot: https://www.spigotmc.org/resources/68767/
+[15:03:30] [Thread-17/INFO]: --------------------
+[15:03:30] [Thread-17/INFO]: [CoreProtect] Version 19.0 is now available.
+[15:03:30] [Thread-17/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[15:03:30] [Thread-17/INFO]: [CoreProtect] Sponsor: www.hosthorde.com
+[15:03:30] [Thread-17/INFO]: --------------------
+[15:03:31] [DiscordSRV - Initialization/ERROR]: [DiscordSRV] DiscordSRV failed to connect to Discord. Reason: The provided token is invalid!
+[15:03:37] [User Authenticator #1/INFO]: UUID of player amdYes_intelNO is db345d89-6f26-450e-96f7-7112da42da62
+[15:03:38] [Server thread/INFO]: amdYes_intelNO joined the game
+[15:03:40] [Server thread/INFO]: amdYes_intelNO[/127.0.0.1:1271] logged in with entity id 701 at ([world]167.65525805102305, 77.01405658757602, -193.70092944239215)
+[15:03:41] [Server thread/WARN]: [Essentials] Task #3065 for Essentials v2.17.2.0 generated an exception
 java.lang.NullPointerException: null
 	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:146) ~[?:?]
 	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
@@ -394,92 +425,13 @@ java.lang.NullPointerException: null
 	at net.minecraft.server.v1_16_R1.MinecraftServer.v(MinecraftServer.java:1000) ~[patched_1.16.1.jar:git-Paper-89]
 	at net.minecraft.server.v1_16_R1.MinecraftServer.lambda$a$0(MinecraftServer.java:177) ~[patched_1.16.1.jar:git-Paper-89]
 	at java.lang.Thread.run(Thread.java:834) [?:?]
-[13:01:02] [Server thread/INFO]: amdYes_intelNO issued server command: /deop amdYes_intelNO
-[13:01:02] [Server thread/INFO]: [amdYes_intelNO: Made amdYes_intelNO no longer a server operator]
-[13:01:04] [Server thread/INFO]: amdYes_intelNO issued server command: /op
-[13:01:29] [Server thread/INFO]: amdYes_intelNO has made the advancement [Monster Hunter]
-[13:01:39] [Server thread/INFO]: amdYes_intelNO issued server command: /pvp on
-[13:01:43] [Server thread/INFO]: amdYes_intelNO issued server command: /pvp off
-[13:01:49] [Server thread/INFO]: Made amdYes_intelNO a server operator
-[13:02:09] [Server thread/INFO]: amdYes_intelNO issued server command: /advancement grant amdYes_intelNO everything
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Who is Cutting Onions?]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Oh Shiny]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Suit Up]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Very Very Frightening]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Hot Stuff]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Free the End]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has completed the challenge [A Furious Cocktail]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Best Friends Forever]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Not Today, Thank You]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Isn't It Iron Pick]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Local Brewery]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has reached the goal [The Next Generation]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Fishy Business]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has completed the challenge [Hot Tourist Destinations]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [This Boat Has Legs]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has completed the challenge [Sniper Duel]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has completed the challenge [Great View From Up Here]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has completed the challenge [How Did We Get Here?]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has completed the challenge [Bullseye]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Spooky Scary Skeleton]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has completed the challenge [Two by Two]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Stone Age]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has completed the challenge [Two Birds, One Arrow]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [We Need to Go Deeper]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Who's the Pillager Now?]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Getting an Upgrade]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Tactical Fishing]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has reached the goal [Zombie Doctor]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [The City at the End of the Game]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Ice Bucket Challenge]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Remote Getaway]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Into Fire]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [War Pigs]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Take Aim]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Total Beelocation]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has completed the challenge [Arbalistic]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has reached the goal [The End... Again...]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Not Quite "Nine" Lives]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Cover Me With Diamonds]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has reached the goal [Sky's the Limit]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has reached the goal [Hired Help]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has completed the challenge [Return to Sender]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Sweet Dreams]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has reached the goal [You Need a Mint]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has completed the challenge [Monsters Hunted]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Enchanter]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Voluntary Exile]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Eye Spy]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has completed the challenge [Serious Dedication]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has reached the goal [Postmortal]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has completed the challenge [Adventuring Time]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [A Seedy Place]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Those Were the Days]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has completed the challenge [Hero of the Village]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Hidden in the Depths]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has reached the goal [Beaconator]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Withering Heights]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has completed the challenge [A Balanced Diet]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has completed the challenge [Subspace Bubble]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Country Lode, Take Me Home]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Bee Our Guest]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [What a Deal!]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has completed the challenge [Uneasy Alliance]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Diamonds!]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [A Terrible Fortress]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [A Throwaway Joke]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Sticky Situation]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [Ol' Betsy]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has completed the challenge [Cover Me in Debris]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [The End?]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has made the advancement [The Parrots and the Bats]
-[13:02:09] [Server thread/INFO]: amdYes_intelNO has completed the challenge [A Complete Catalogue]
-[13:02:09] [Server thread/INFO]: [amdYes_intelNO: Granted 927 advancements to amdYes_intelNO]
-[13:02:11] [Server thread/INFO]: amdYes_intelNO lost connection: Disconnected
-[13:02:11] [Server thread/INFO]: amdYes_intelNO left the game
-[13:02:11] [Server thread/WARN]: [Essentials] Task #53613 for Essentials v2.17.2.0 generated an exception
+[15:03:50] [Server thread/INFO]: amdYes_intelNO issued server command: /gamemode creative
+[15:03:55] [User Authenticator #1/INFO]: UUID of player YingLraft is 77fc970a-8286-4950-9a68-53a17b8a8fc3
+[15:03:55] [Server thread/INFO]: YingLraft joined the game
+[15:03:55] [Server thread/INFO]: YingLraft[/49.159.73.44:24946] logged in with entity id 787 at ([world]168.9367153762898, 75.5, -183.6063536941097)
+[15:03:55] [Server thread/WARN]: [Essentials] Task #35951 for Essentials v2.17.2.0 generated an exception
 java.lang.NullPointerException: null
-	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:142) ~[?:?]
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:150) ~[?:?]
 	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
 	at org.bukkit.craftbukkit.v1_16_R1.scheduler.CraftTask.run(CraftTask.java:99) ~[patched_1.16.1.jar:git-Paper-89]
 	at org.bukkit.craftbukkit.v1_16_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:468) ~[patched_1.16.1.jar:git-Paper-89]
@@ -489,12 +441,18 @@ java.lang.NullPointerException: null
 	at net.minecraft.server.v1_16_R1.MinecraftServer.v(MinecraftServer.java:1000) ~[patched_1.16.1.jar:git-Paper-89]
 	at net.minecraft.server.v1_16_R1.MinecraftServer.lambda$a$0(MinecraftServer.java:177) ~[patched_1.16.1.jar:git-Paper-89]
 	at java.lang.Thread.run(Thread.java:834) [?:?]
-[13:02:12] [User Authenticator #2/INFO]: UUID of player amdYes_intelNO is db345d89-6f26-450e-96f7-7112da42da62
-[13:02:13] [Server thread/INFO]: amdYes_intelNO joined the game
-[13:02:13] [Server thread/INFO]: amdYes_intelNO[/127.0.0.1:13386] logged in with entity id 1954 at ([world]157.18360353197156, 68.0, -186.56657684411812)
-[13:02:13] [Server thread/WARN]: [Essentials] Task #53621 for Essentials v2.17.2.0 generated an exception
+[15:04:01] [Server thread/INFO]: amdYes_intelNO issued server command: /statue amdYes_intelNO
+[15:04:02] [Server thread/INFO]: db345d896f26450e96f77112da42da62
+[15:04:02] [Server thread/INFO]: [PlayerStatueBuilderX]: Trying to remove items...
+[15:04:02] [Server thread/INFO]: [PlayerStatueBuilderX]: Creating Structure...
+[15:04:03] [Server thread/INFO]: [PlayerStatueBuilderX]: Statue Created
+[15:04:14] [Server thread/INFO]: YingLraft issued server command: /gamemode creative
+[15:04:26] [User Authenticator #1/INFO]: UUID of player axdvgnk278 is edd70f83-726d-4b0c-87c4-78bb01ae0b63
+[15:04:26] [Server thread/INFO]: axdvgnk278 joined the game
+[15:04:27] [Server thread/INFO]: axdvgnk278[/36.236.54.145:49395] logged in with entity id 2016 at ([world]167.9788381454348, 68.0, -178.13027281652253)
+[15:04:28] [Server thread/WARN]: [Essentials] Task #59521 for Essentials v2.17.2.0 generated an exception
 java.lang.NullPointerException: null
-	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:146) ~[?:?]
+	at com.earth2me.essentials.xmpp.XMPPManager.updatePresence(XMPPManager.java:150) ~[?:?]
 	at com.earth2me.essentials.xmpp.EssentialsXMPP.updatePresence(EssentialsXMPP.java:113) ~[?:?]
 	at org.bukkit.craftbukkit.v1_16_R1.scheduler.CraftTask.run(CraftTask.java:99) ~[patched_1.16.1.jar:git-Paper-89]
 	at org.bukkit.craftbukkit.v1_16_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:468) ~[patched_1.16.1.jar:git-Paper-89]
@@ -504,53 +462,1314 @@ java.lang.NullPointerException: null
 	at net.minecraft.server.v1_16_R1.MinecraftServer.v(MinecraftServer.java:1000) ~[patched_1.16.1.jar:git-Paper-89]
 	at net.minecraft.server.v1_16_R1.MinecraftServer.lambda$a$0(MinecraftServer.java:177) ~[patched_1.16.1.jar:git-Paper-89]
 	at java.lang.Thread.run(Thread.java:834) [?:?]
-[13:02:33] [Server thread/INFO]: amdYes_intelNO issued server command: /stop
-[13:02:33] [Server thread/INFO]: [amdYes_intelNO: Stopping the server]
-[13:02:33] [Server thread/INFO]: Stopping server (Ignore any thread death message you see! - DO NOT REPORT THREAD DEATH TO PAPER)
-[13:02:33] [Server thread/INFO]: [QuickShop] Disabling QuickShop v4.0.3.2
-[13:02:33] [Server thread/INFO]: [QuickShop] QuickShop is finishing remaining work, this may need a while...
-[13:02:33] [Server thread/INFO]: [QuickShop] Please wait for the data to flush its data...
-[13:02:33] [Server thread/INFO]: [Residence] Disabling Residence v4.9.1.0
-[13:02:33] [Server thread/INFO]: [Residence] Disabled!
-[13:02:33] [Server thread/INFO]: [EssentialsXMPP] Disabling EssentialsXMPP v2.17.2.0
-[13:02:33] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.17.2.0
-[13:02:33] [Server thread/INFO]: [EssentialsGeoIP] Disabling EssentialsGeoIP v2.17.2.0
-[13:02:33] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.17.2.0
-[13:02:33] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.2.0
-[13:02:33] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
-[13:02:33] [Server thread/INFO]: [LockettePro] Disabling LockettePro v2.9.10
-[13:02:33] [Server thread/INFO]: [DiscordSRV] Disabling DiscordSRV v1.18.4
-[13:02:33] [pool-18-thread-1/INFO]: [DiscordSRV] Shutdown completed in 8ms
-[13:02:33] [Server thread/INFO]: [ChestCommands] Disabling ChestCommands v3.2.0
-[13:02:33] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.27-SNAPSHOT (build 2049)
-[13:02:33] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v2.18.2
-[13:02:33] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
-[13:02:34] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v2.18.2
-[13:02:34] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.1.0-b775
-[13:02:34] [Server thread/INFO]: [PvPToggle] Disabling PvPToggle v1.7
-[13:02:34] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b${env.TRAVIS_BUILD_NUMBER}
-[13:02:34] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
-[13:02:34] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.23.4
-[13:02:34] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
-[13:02:34] [Server thread/INFO]: [PL-Hide] Disabling PL-Hide v1.5.11
-[13:02:34] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.1.0;8e55131
-[13:02:34] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[13:02:34] [Server thread/INFO]: Saving players
-[13:02:34] [Server thread/INFO]: amdYes_intelNO lost connection: Server closed
-[13:02:34] [Server thread/INFO]: amdYes_intelNO left the game
-[13:02:35] [Server thread/INFO]: Saving worlds
-[13:02:35] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[13:02:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:02:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[13:02:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:02:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[13:02:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:02:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[survive_world]'/minecraft:survive_world
-[13:02:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (survive_world): All chunks are saved
-[13:02:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[13:02:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[13:02:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[13:02:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (survive_world): All chunks are saved
-[13:02:42] [Server thread/INFO]: Flushing Chunk IO
-[13:02:42] [Server thread/INFO]: Closing Thread Pool
-[13:02:42] [Server thread/INFO]: Closing Server
+[15:04:44] [Server thread/INFO]: axdvgnk278 issued server command: /gamemode creative
+[15:04:47] [Server thread/INFO]: amdYes_intelNO issued server command: //pos1
+[15:05:02] [Server thread/INFO]: amdYes_intelNO issued server command: //pos2
+[15:05:14] [Server thread/INFO]: amdYes_intelNO issued server command: //set 0
+[15:05:17] [Server thread/INFO]: YingLraft issued server command: /help
+[15:05:21] [Server thread/INFO]: YingLraft issued server command: /help 2
+[15:05:22] [Server thread/INFO]: YingLraft issued server command: /help 3
+[15:05:23] [Server thread/INFO]: YingLraft issued server command: /help 4
+[15:05:24] [Server thread/INFO]: YingLraft issued server command: /help 5
+[15:05:26] [Server thread/INFO]: YingLraft issued server command: /help 6
+[15:05:27] [Server thread/INFO]: YingLraft issued server command: /help 8
+[15:05:28] [Server thread/INFO]: YingLraft issued server command: /help 9
+[15:05:29] [Async Chat Thread - #0/INFO]: []<amdYes_intelNO> ./statue
+[15:05:34] [Server thread/INFO]: YingLraft issued server command: /statue YingLraft
+[15:05:35] [Server thread/INFO]: 77fc970a828649509a6853a17b8a8fc3
+[15:05:36] [Server thread/INFO]: [PlayerStatueBuilderX]: Trying to remove items...
+[15:05:36] [Server thread/INFO]: [PlayerStatueBuilderX]: Creating Structure...
+[15:05:36] [Server thread/INFO]: [PlayerStatueBuilderX]: Statue Created
+[15:06:02] [Server thread/INFO]: amdYes_intelNO issued server command: /statue amdYes_intelNO
+[15:06:02] [Server thread/INFO]: [PlayerStatueBuilderX]: Trying to remove items...
+[15:06:02] [Server thread/INFO]: [PlayerStatueBuilderX]: Creating Structure...
+[15:06:02] [Server thread/INFO]: [PlayerStatueBuilderX]: Statue Created
+[15:06:13] [Server thread/INFO]: YingLraft issued server command: /statue axdvgnk278
+[15:06:14] [Server thread/INFO]: edd70f83726d4b0c87c478bb01ae0b63
+[15:06:15] [Server thread/INFO]: [PlayerStatueBuilderX]: Trying to remove items...
+[15:06:15] [Server thread/INFO]: [PlayerStatueBuilderX]: Creating Structure...
+[15:06:15] [Server thread/INFO]: [PlayerStatueBuilderX]: Statue Created
+[15:06:31] [Server thread/INFO]: amdYes_intelNO issued server command: /statue notch
+[15:06:31] [Server thread/INFO]: 069a79f444e94726a5befca90e38aaf5
+[15:06:32] [Server thread/INFO]: [PlayerStatueBuilderX]: Trying to remove items...
+[15:06:32] [Server thread/INFO]: [PlayerStatueBuilderX]: Creating Structure...
+[15:06:32] [Server thread/INFO]: [PlayerStatueBuilderX]: Statue Created
+[15:07:05] [Server thread/INFO]: YingLraft issued server command: /statue BW_Shawchi
+[15:07:06] [Server thread/INFO]: 7ff733976ebb4b2f9ef169cd66768e73
+[15:07:07] [Server thread/INFO]: [PlayerStatueBuilderX]: Trying to remove items...
+[15:07:07] [Server thread/INFO]: [PlayerStatueBuilderX]: Creating Structure...
+[15:07:07] [Server thread/INFO]: [PlayerStatueBuilderX]: Statue Created
+[15:07:09] [Server thread/INFO]: amdYes_intelNO issued server command: /statue md5
+[15:07:10] [Server thread/INFO]: 9973016bee414474946f341e275e50a0
+[15:07:10] [Server thread/INFO]: [PlayerStatueBuilderX]: Trying to remove items...
+[15:07:10] [Server thread/INFO]: [PlayerStatueBuilderX]: Creating Structure...
+[15:07:11] [Server thread/INFO]: [PlayerStatueBuilderX]: Statue Created
+[15:07:48] [Server thread/INFO]: amdYes_intelNO issued server command: /statue linux
+[15:07:49] [Server thread/INFO]: ab86a2f9d08f4e7ba4bd6bb25eb6777a
+[15:07:50] [Server thread/INFO]: [PlayerStatueBuilderX]: Trying to remove items...
+[15:07:50] [Server thread/INFO]: [PlayerStatueBuilderX]: Creating Structure...
+[15:07:50] [Server thread/INFO]: [PlayerStatueBuilderX]: Statue Created
+[15:08:31] [Server thread/INFO]: YingLraft issued server command: /statue pig
+[15:08:32] [Server thread/INFO]: 55b0cd96996f438f9507208df9c2f5a8
+[15:08:32] [Server thread/INFO]: [PlayerStatueBuilderX]: Trying to remove items...
+[15:08:32] [Server thread/INFO]: [PlayerStatueBuilderX]: Creating Structure...
+[15:08:33] [Server thread/INFO]: [PlayerStatueBuilderX]: Statue Created
+[15:08:44] [Server thread/INFO]: amdYes_intelNO issued server command: /statue ubuntu
+[15:08:44] [Server thread/INFO]: 69a6c47a21a24ff7abcf999e22b38070
+[15:08:45] [Server thread/INFO]: [PlayerStatueBuilderX]: Trying to remove items...
+[15:08:45] [Server thread/INFO]: [PlayerStatueBuilderX]: Creating Structure...
+[15:08:45] [Server thread/INFO]: [PlayerStatueBuilderX]: Statue Created
+[15:09:26] [Server thread/INFO]: amdYes_intelNO issued server command: /statue arch
+[15:09:27] [Server thread/INFO]: cad02b94d692422d9d4d61e24a17b284
+[15:09:28] [Server thread/INFO]: [PlayerStatueBuilderX]: Trying to remove items...
+[15:09:28] [Server thread/INFO]: [PlayerStatueBuilderX]: Creating Structure...
+[15:09:28] [Server thread/INFO]: [PlayerStatueBuilderX]: Statue Created
+[15:09:28] [Server thread/WARN]: YingLraft moved too quickly! 12.69125777626627,0.7219920119867282,3.189292057644394
+[15:09:49] [Server thread/INFO]: amdYes_intelNO issued server command: /tps
+[15:11:18] [Server thread/INFO]: amdYes_intelNO issued server command: /statue z_21
+[15:11:20] [Server thread/INFO]: d76fbda39d384571afb6e0fb9f04ce8b
+[15:11:20] [Server thread/INFO]: [PlayerStatueBuilderX]: Trying to remove items...
+[15:11:20] [Server thread/INFO]: [PlayerStatueBuilderX]: Creating Structure...
+[15:11:21] [Server thread/INFO]: [PlayerStatueBuilderX]: Statue Created
+[15:12:38] [Server thread/INFO]: amdYes_intelNO issued server command: /statue zombie
+[15:12:38] [Server thread/INFO]: 02b0e86dc86a4ae7bc41015d21f80c1c
+[15:12:39] [Server thread/INFO]: [PlayerStatueBuilderX]: Trying to remove items...
+[15:12:39] [Server thread/INFO]: [PlayerStatueBuilderX]: Creating Structure...
+[15:12:39] [Server thread/INFO]: [PlayerStatueBuilderX]: Statue Created
+[15:13:10] [Server thread/INFO]: amdYes_intelNO issued server command: /pl
+[15:13:21] [Server thread/INFO]: amdYes_intelNO issued server command: /sv\
+[15:13:52] [Server thread/INFO]: amdYes_intelNO issued server command: //set 0
+[15:14:04] [Server thread/INFO]: amdYes_intelNO issued server command: //set 0
+[15:14:12] [Server thread/INFO]: axdvgnk278 issued server command: /gamemode creative
+[15:14:13] [Server thread/INFO]: amdYes_intelNO issued server command: //set 0
+[15:14:19] [Server thread/INFO]: amdYes_intelNO issued server command: //set 0
+[15:14:30] [Server thread/INFO]: axdvgnk278 issued server command: /gamemode creative
+[15:14:34] [Server thread/INFO]: amdYes_intelNO issued server command: //set 0
+[15:14:47] [Server thread/INFO]: amdYes_intelNO issued server command: //pos1
+[15:14:54] [Server thread/INFO]: amdYes_intelNO issued server command: //pos2
+[15:14:56] [Server thread/INFO]: amdYes_intelNO issued server command: //set 0
+[15:15:19] [Server thread/INFO]: axdvgnk278 fell from a high place
+[15:15:26] [Server thread/INFO]: YingLraft issued server command: /tp axdvgnk278
+[15:15:29] [Server thread/INFO]: amdYes_intelNO issued server command: //set 0
+[15:15:29] [Server thread/INFO]: axdvgnk278 issued server command: /back
+[15:15:41] [Server thread/INFO]: axdvgnk278 issued server command: /gamemode creative
+[15:17:09] [Server thread/INFO]: amdYes_intelNO issued server command: /pl
+[15:17:16] [Async Chat Thread - #1/INFO]: []<影りょう> 靠
+[15:17:20] [Async Chat Thread - #1/INFO]: []<影りょう> 牠可以做動態雕像欸
+[15:17:25] [Async Chat Thread - #1/INFO]: []<影りょう> 指令可以弄
+[15:17:27] [Async Chat Thread - #1/INFO]: []<ねずこ> ???????????
+[15:17:29] [Server thread/INFO]: amdYes_intelNO issued server command: /tp YingLraft
+[15:17:32] [Async Chat Thread - #1/INFO]: []<影りょう> https://forum.gamer.com.tw/C.php?bsn=18673&snA=103963
+[15:17:33] [Async Chat Thread - #1/INFO]: []<ねずこ> ij2ul4
+[15:17:50] [Async Chat Thread - #1/INFO]: []<ねずこ> 我要放火燒我的雕像
+[15:17:56] [Server thread/INFO]: YingLraft issued server command: /statue create mob creeper
+[15:17:56] [Async Chat Thread - #1/INFO]: []<ねずこ> 可以嗎
+[15:17:58] [Server thread/INFO]: da6c5fa8b70040528d45777e781c9cb0
+[15:17:59] [Server thread/INFO]: [PlayerStatueBuilderX]: Trying to remove items...
+[15:17:59] [Server thread/INFO]: [PlayerStatueBuilderX]: Creating Structure...
+[15:17:59] [Server thread/INFO]: [PlayerStatueBuilderX]: Statue Created
+[15:18:11] [Async Chat Thread - #1/INFO]: []<影りょう> 燒阿
+[15:18:28] [Server thread/INFO]: YingLraft issued server command: /statue create mob babychicken
+[15:18:28] [Server thread/INFO]: [PlayerStatueBuilderX]: Trying to remove items...
+[15:18:28] [Server thread/INFO]: [PlayerStatueBuilderX]: Creating Structure...
+[15:18:29] [Server thread/INFO]: [PlayerStatueBuilderX]: Statue Created
+[15:18:33] [Server thread/INFO]: amdYes_intelNO issued server command: /statue animate Punch <時間設定> [延遲]
+[15:18:47] [Server thread/INFO]: amdYes_intelNO issued server command: /statue animate Punch 50 0
+[15:19:01] [Server thread/INFO]: amdYes_intelNO issued server command: /statue
+[15:19:01] [Server thread/INFO]: [PlayerStatueBuilderX]: Trying to remove items...
+[15:19:01] [Server thread/INFO]: [PlayerStatueBuilderX]: Creating Structure...
+[15:19:01] [Server thread/INFO]: [PlayerStatueBuilderX]: Statue Created
+[15:19:12] [Server thread/INFO]: amdYes_intelNO issued server command: /statue help
+[15:19:13] [Server thread/INFO]: 45294351c8ff42e688908cd2af98d1e7
+[15:19:14] [Server thread/INFO]: [PlayerStatueBuilderX]: Trying to remove items...
+[15:19:14] [Server thread/INFO]: [PlayerStatueBuilderX]: Creating Structure...
+[15:19:14] [Server thread/INFO]: [PlayerStatueBuilderX]: Statue Created
+[15:19:16] [Server thread/INFO]: YingLraft issued server command: /lockette
+[15:20:13] [Server thread/INFO]: amdYes_intelNO issued server command: //pos1
+[15:20:20] [Server thread/INFO]: YingLraft issued server command: /statue help
+[15:20:20] [Server thread/INFO]: [PlayerStatueBuilderX]: Trying to remove items...
+[15:20:20] [Server thread/INFO]: [PlayerStatueBuilderX]: Creating Structure...
+[15:20:20] [Server thread/INFO]: [PlayerStatueBuilderX]: Statue Created
+[15:20:25] [Server thread/INFO]: YingLraft issued server command: /help
+[15:20:26] [Server thread/INFO]: YingLraft issued server command: /help 2
+[15:20:27] [Server thread/INFO]: amdYes_intelNO issued server command: //pos2
+[15:20:28] [Server thread/INFO]: YingLraft issued server command: /help 3
+[15:20:29] [Server thread/INFO]: YingLraft issued server command: /help 4
+[15:20:30] [Server thread/INFO]: YingLraft issued server command: /help 5
+[15:20:31] [Server thread/INFO]: YingLraft issued server command: /help 6
+[15:20:32] [Server thread/INFO]: amdYes_intelNO issued server command: //set 0
+[15:20:33] [Async Chat Thread - #2/INFO]: []<ねずこ> 可以進來體內了(x
+[15:20:40] [Async Chat Thread - #2/INFO]: []<影りょう> 怪人
+[15:20:41] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-89 (MC: 1.16.1) ---
+[15:20:41] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[15:20:41] [Paper Watchdog Thread/ERROR]: ------------------------------
+[15:20:41] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[15:20:41] [Paper Watchdog Thread/ERROR]: ------------------------------
+[15:20:41] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[15:20:41] [Paper Watchdog Thread/ERROR]: 	PID: 22 | Suspended: false | Native: false | State: RUNNABLE
+[15:20:41] [Paper Watchdog Thread/ERROR]: 	Stack:
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		app//com.google.common.collect.HashBiMap.seekByKey(HashBiMap.java:224)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		app//com.google.common.collect.HashBiMap.get(HashBiMap.java:256)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.RegistryMaterials.getOptional(RegistryMaterials.java:103)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.ArgumentBlock.e(ArgumentBlock.java:340)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.ArgumentBlock.a(ArgumentBlock.java:94)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_16_R1.block.data.CraftBlockData.newData(CraftBlockData.java:539)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_16_R1.CraftServer.createBlockData(CraftServer.java:2111)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_16_R1.CraftServer.createBlockData(CraftServer.java:2104)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.Bukkit.createBlockData(Bukkit.java:1553)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		net.coreprotect.worldedit.CoreProtectLogger.onBlockChange(CoreProtectLogger.java:59)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		net.coreprotect.worldedit.CoreProtectLogger.setBlock(CoreProtectLogger.java:66)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.operation.SetBlockMap.resume(SetBlockMap.java:47)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extent.reorder.MultiStageReorder$1.resume(MultiStageReorder.java:268)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.operation.OperationQueue.resume(OperationQueue.java:92)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.operation.OperationQueue.resume(OperationQueue.java:92)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.operation.Operations.completeBlindly(Operations.java:74)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.EditSession.flushSession(EditSession.java:808)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extension.platform.PlatformCommandManager.handleCommand(PlatformCommandManager.java:532)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		java.base@11.0.6/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		java.base@11.0.6/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		java.base@11.0.6/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		java.base@11.0.6/java.lang.reflect.Method.invoke(Method.java:566)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.MethodEventHandler.dispatch(MethodEventHandler.java:58)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventHandler.handleEvent(EventHandler.java:73)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventBus.dispatch(EventBus.java:193)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventBus.post(EventBus.java:181)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.bukkit.WorldEditPlugin.onCommand(WorldEditPlugin.java:348)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		com.sk89q.bukkit.util.DynamicPluginCommand.execute(DynamicPluginCommand.java:55)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_16_R1.CraftServer.dispatchCommand(CraftServer.java:794)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.PlayerConnection.handleCommand(PlayerConnection.java:1908)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.PlayerConnection.a(PlayerConnection.java:1719)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.PacketPlayInChat.a(PacketPlayInChat.java:47)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.PacketPlayInChat.a(PacketPlayInChat.java:5)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.PlayerConnectionUtils.lambda$ensureMainThread$1(PlayerConnectionUtils.java:23)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.PlayerConnectionUtils$$Lambda$4905/0x000000080135c840.run(Unknown Source)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.TickTask.run(SourceFile:18)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:136)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:109)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.MinecraftServer.aZ(MinecraftServer.java:1136)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.MinecraftServer.executeNext(MinecraftServer.java:1129)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:119)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.MinecraftServer.sleepForTick(MinecraftServer.java:1090)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.MinecraftServer.v(MinecraftServer.java:1004)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.MinecraftServer.lambda$a$0(MinecraftServer.java:177)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.MinecraftServer$$Lambda$3003/0x00000008008c3840.run(Unknown Source)
+[15:20:41] [Paper Watchdog Thread/ERROR]: 		java.base@11.0.6/java.lang.Thread.run(Thread.java:834)
+[15:20:41] [Paper Watchdog Thread/ERROR]: ------------------------------
+[15:20:41] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[15:20:42] [Paper Watchdog Thread/ERROR]: ------------------------------
+[15:20:46] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-89 (MC: 1.16.1) ---
+[15:20:46] [Paper Watchdog Thread/ERROR]: The server has not responded for 15 seconds! Creating thread dump
+[15:20:46] [Paper Watchdog Thread/ERROR]: ------------------------------
+[15:20:46] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[15:20:46] [Paper Watchdog Thread/ERROR]: ------------------------------
+[15:20:46] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[15:20:46] [Paper Watchdog Thread/ERROR]: 	PID: 22 | Suspended: false | Native: false | State: RUNNABLE
+[15:20:46] [Paper Watchdog Thread/ERROR]: 	Stack:
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		java.base@11.0.6/java.lang.StringBuilder.append(StringBuilder.java:174)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		net.coreprotect.Functions.checkConfig(Functions.java:251)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		net.coreprotect.Functions.getContainerContents(Functions.java:849)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		net.coreprotect.worldedit.CoreProtectLogger.onBlockChange(CoreProtectLogger.java:54)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		net.coreprotect.worldedit.CoreProtectLogger.setBlock(CoreProtectLogger.java:66)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.operation.SetBlockMap.resume(SetBlockMap.java:47)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extent.reorder.MultiStageReorder$1.resume(MultiStageReorder.java:268)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.operation.OperationQueue.resume(OperationQueue.java:92)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.operation.OperationQueue.resume(OperationQueue.java:92)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.function.operation.Operations.completeBlindly(Operations.java:74)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.EditSession.flushSession(EditSession.java:808)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.extension.platform.PlatformCommandManager.handleCommand(PlatformCommandManager.java:532)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		java.base@11.0.6/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		java.base@11.0.6/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		java.base@11.0.6/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		java.base@11.0.6/java.lang.reflect.Method.invoke(Method.java:566)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.MethodEventHandler.dispatch(MethodEventHandler.java:58)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventHandler.handleEvent(EventHandler.java:73)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventBus.dispatch(EventBus.java:193)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.util.eventbus.EventBus.post(EventBus.java:181)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		com.sk89q.worldedit.bukkit.WorldEditPlugin.onCommand(WorldEditPlugin.java:348)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		com.sk89q.bukkit.util.DynamicPluginCommand.execute(DynamicPluginCommand.java:55)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_16_R1.CraftServer.dispatchCommand(CraftServer.java:794)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.PlayerConnection.handleCommand(PlayerConnection.java:1908)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.PlayerConnection.a(PlayerConnection.java:1719)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.PacketPlayInChat.a(PacketPlayInChat.java:47)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.PacketPlayInChat.a(PacketPlayInChat.java:5)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.PlayerConnectionUtils.lambda$ensureMainThread$1(PlayerConnectionUtils.java:23)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.PlayerConnectionUtils$$Lambda$4905/0x000000080135c840.run(Unknown Source)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.TickTask.run(SourceFile:18)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:136)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:109)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.MinecraftServer.aZ(MinecraftServer.java:1136)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.MinecraftServer.executeNext(MinecraftServer.java:1129)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:119)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.MinecraftServer.sleepForTick(MinecraftServer.java:1090)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.MinecraftServer.v(MinecraftServer.java:1004)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.MinecraftServer.lambda$a$0(MinecraftServer.java:177)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R1.MinecraftServer$$Lambda$3003/0x00000008008c3840.run(Unknown Source)
+[15:20:46] [Paper Watchdog Thread/ERROR]: 		java.base@11.0.6/java.lang.Thread.run(Thread.java:834)
+[15:20:46] [Paper Watchdog Thread/ERROR]: ------------------------------
+[15:20:46] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[15:20:46] [Paper Watchdog Thread/ERROR]: ------------------------------
+[15:20:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15899ms or 317 ticks behind
+[15:20:47] [Server thread/INFO]: YingLraft issued server command: /help 7
+[15:20:47] [Server thread/INFO]: YingLraft issued server command: /help 8
+[15:20:47] [Server thread/INFO]: YingLraft issued server command: /help 7
+[15:20:47] [Server thread/INFO]: YingLraft issued server command: /help 8
+[15:20:48] [Server thread/INFO]: YingLraft issued server command: /help 9
+[15:20:48] [Server thread/WARN]: axdvgnk278 moved too quickly! 0.8176371480018361,-10.555037248837067,0.0
+[15:20:48] [Server thread/WARN]: YingLraft moved too quickly! 0.7328025144979051,9.187317538600183,4.376485214448138
+[15:20:48] [Server thread/WARN]: amdYes_intelNO moved too quickly! -9.490290756712028,-35.7499346519115,26.798824645169816
+[15:21:07] [Server thread/INFO]: YingLraft issued server command: /strike
+[15:21:10] [Server thread/INFO]: YingLraft issued server command: /nuke
+[15:21:21] [Async Chat Thread - #2/INFO]: []<ねずこ> 三小
+[15:21:23] [Async Chat Thread - #2/INFO]: []<影りょう> XD
+[15:21:30] [Server thread/INFO]: YingLraft issued server command: /call
+[15:21:33] [Server thread/INFO]: amdYes_intelNO issued server command: /pong
+[15:21:34] [Server thread/INFO]: YingLraft issued server command: /call axdvgnk278
+[15:21:42] [Server thread/INFO]: amdYes_intelNO issued server command: /sudo YingLraft pong
+[15:21:43] [Server thread/INFO]: YingLraft issued server command: /tpacancel
+[15:21:44] [Async Chat Thread - #2/INFO]: []<ねずこ> 你跟72是被腰斬逆
+[15:21:47] [Async Chat Thread - #2/INFO]: []<影りょう> 哭
+[15:21:57] [Async Chat Thread - #2/INFO]: []<影りょう> 你鞋子裡面有苦力怕
+[15:22:03] [Server thread/INFO]: axdvgnk278 issued server command: /tpaccept
+[15:22:04] [Server thread/INFO]: CONSOLE issued server command: /sudo YingLraft pong
+[15:22:04] [Server thread/INFO]: Forcing YingLraft to run: /pong
+[15:22:04] [Server thread/INFO]: YingLraft issued server command: /pong
+[15:22:06] [Server thread/INFO]: axdvgnk278 issued server command: /tpaccept
+[15:22:09] [Server thread/INFO]: YingLraft issued server command: /pong
+[15:22:21] [Server thread/INFO]: YingLraft issued server command: /title @a title "哭啊"
+[15:22:21] [Server thread/INFO]: [YingLraft: Showing new title for 3 players]
+[15:22:22] [Server thread/INFO]: CONSOLE issued server command: /sudo YingLraft say test
+[15:22:22] [Server thread/INFO]: Forcing YingLraft to run: /say test
+[15:22:22] [Server thread/INFO]: YingLraft issued server command: /say test
+[15:22:22] [Server thread/INFO]: [YingLraft] test
+[15:22:44] [Server thread/INFO]: CONSOLE issued server command: /sudo YingLraft nuke
+[15:22:44] [Server thread/INFO]: Forcing YingLraft to run: /nuke
+[15:22:44] [Server thread/INFO]: YingLraft issued server command: /nuke
+[15:22:49] [Server thread/INFO]: YingLraft issued server command: /tellraw @a "Notch 已加入了遊戲"
+[15:23:00] [Async Chat Thread - #3/INFO]: []<ねずこ> 蝦
+[15:23:10] [Server thread/INFO]: YingLraft issued server command: /tellraw @a "蛤"
+[15:23:16] [Server thread/INFO]: YingLraft issued server command: /say yee
+[15:23:16] [Server thread/INFO]: [YingLraft] yee
+[15:23:22] [Server thread/INFO]: amdYes_intelNO issued server command: /tellraw @a "&6Notch 已加入了遊戲"
+[15:23:31] [Async Chat Thread - #3/INFO]: []<ねずこ> 小心我放火燒了全部得東西
+[15:23:37] [Async Chat Thread - #3/INFO]: []<影りょう> 燒爆(X
+[15:23:37] [Async Chat Thread - #3/INFO]: []<ねずこ> (???)
+[15:23:43] [Server thread/INFO]: YingLraft issued server command: /fire
+[15:23:45] [Server thread/INFO]: YingLraft issued server command: /fireball
+[15:23:47] [Server thread/INFO]: YingLraft issued server command: /fireball
+[15:23:47] [Server thread/INFO]: YingLraft issued server command: /fireball
+[15:23:47] [Server thread/INFO]: YingLraft issued server command: /fireball
+[15:23:47] [Server thread/INFO]: YingLraft issued server command: /fireball
+[15:23:48] [Server thread/INFO]: YingLraft issued server command: /fireball
+[15:23:49] [Server thread/INFO]: YingLraft issued server command: /fireball
+[15:23:49] [Server thread/INFO]: YingLraft issued server command: /fireball
+[15:23:50] [Server thread/INFO]: YingLraft issued server command: /fireball
+[15:23:50] [Server thread/INFO]: YingLraft issued server command: /fireball
+[15:23:50] [Server thread/INFO]: YingLraft issued server command: /fireball
+[15:23:51] [Server thread/INFO]: YingLraft issued server command: /fireball
+[15:23:51] [Server thread/INFO]: YingLraft issued server command: /fireball
+[15:23:52] [Server thread/INFO]: YingLraft issued server command: /fireball
+[15:23:53] [Server thread/INFO]: YingLraft issued server command: /fireball
+[15:23:54] [Server thread/INFO]: YingLraft issued server command: /fireball
+[15:23:54] [Server thread/INFO]: YingLraft issued server command: /fireball
+[15:23:54] [Server thread/INFO]: YingLraft issued server command: /fireball
+[15:23:55] [Server thread/INFO]: YingLraft issued server command: /fireball
+[15:23:55] [Server thread/INFO]: YingLraft issued server command: /fireball
+[15:23:55] [Server thread/INFO]: YingLraft issued server command: /fireball
+[15:23:56] [Server thread/INFO]: YingLraft issued server command: /fireball
+[15:23:56] [Server thread/INFO]: YingLraft issued server command: /fireball
+[15:23:57] [Server thread/INFO]: YingLraft issued server command: /fireball
+[15:23:57] [Server thread/INFO]: YingLraft issued server command: /fireball
+[15:24:01] [Server thread/INFO]: YingLraft issued server command: /fireball
+[15:24:02] [Server thread/INFO]: YingLraft issued server command: /fireball
+[15:24:02] [Server thread/INFO]: YingLraft issued server command: /fireball
+[15:24:03] [Server thread/INFO]: YingLraft issued server command: /fireball
+[15:24:03] [Server thread/INFO]: amdYes_intelNO issued server command: /powertool fireboll
+[15:24:03] [Server thread/INFO]: YingLraft issued server command: /fireball
+[15:24:03] [Server thread/INFO]: YingLraft issued server command: /fireball
+[15:24:07] [Server thread/INFO]: amdYes_intelNO issued server command: /powertool firebell
+[15:24:08] [Server thread/INFO]: axdvgnk278 has made the advancement [Ol' Betsy]
+[15:24:12] [Server thread/INFO]: YingLraft issued server command: /firework
+[15:24:24] [Server thread/INFO]: amdYes_intelNO issued server command: /powertool a:fireball
+[15:24:26] [Server thread/INFO]: amdYes_intelNO issued server command: /firebell
+[15:24:26] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /firebell
+[15:24:26] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:26] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:28] [Server thread/INFO]: amdYes_intelNO issued server command: /firebell
+[15:24:28] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /firebell
+[15:24:28] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:28] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:28] [Server thread/INFO]: amdYes_intelNO issued server command: /firebell
+[15:24:28] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /firebell
+[15:24:28] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:28] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:28] [Server thread/INFO]: amdYes_intelNO issued server command: /firebell
+[15:24:28] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /firebell
+[15:24:28] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:28] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:28] [Server thread/INFO]: amdYes_intelNO issued server command: /firebell
+[15:24:28] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /firebell
+[15:24:28] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:28] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:29] [Server thread/INFO]: amdYes_intelNO issued server command: /firebell
+[15:24:29] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /firebell
+[15:24:29] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:29] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:29] [Server thread/INFO]: amdYes_intelNO issued server command: /firebell
+[15:24:29] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /firebell
+[15:24:29] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:29] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:29] [Server thread/INFO]: amdYes_intelNO issued server command: /firebell
+[15:24:29] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /firebell
+[15:24:29] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:29] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:29] [Server thread/INFO]: amdYes_intelNO issued server command: /firebell
+[15:24:29] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /firebell
+[15:24:29] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:29] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:30] [Server thread/INFO]: amdYes_intelNO issued server command: /firebell
+[15:24:30] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /firebell
+[15:24:30] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:30] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:30] [Server thread/INFO]: amdYes_intelNO issued server command: /firebell
+[15:24:30] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /firebell
+[15:24:30] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:30] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:30] [Server thread/INFO]: amdYes_intelNO issued server command: /firebell
+[15:24:30] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /firebell
+[15:24:30] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:30] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:30] [Server thread/INFO]: amdYes_intelNO issued server command: /firebell
+[15:24:30] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /firebell
+[15:24:30] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:30] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:31] [Server thread/INFO]: amdYes_intelNO issued server command: /firebell
+[15:24:31] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /firebell
+[15:24:31] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:31] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:35] [Server thread/INFO]: amdYes_intelNO issued server command: /powertool fireball
+[15:24:35] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:35] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:35] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:35] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:36] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:36] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:36] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:36] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:36] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:36] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:36] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:36] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:37] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:37] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:37] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:37] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:37] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:37] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:37] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:37] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:38] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:38] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:38] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:38] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:38] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:38] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:38] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:38] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:39] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:39] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:39] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:39] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:43] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:43] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:43] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:43] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:44] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:44] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:44] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:44] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:44] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:44] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:44] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:44] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:44] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:44] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:45] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:45] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:45] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:45] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:45] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:45] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:45] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:45] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:46] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:46] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:46] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:46] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:46] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:46] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:46] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:46] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:47] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:47] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:47] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:47] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:47] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:47] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:47] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:47] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:47] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:47] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:48] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:48] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:48] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:48] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:48] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:48] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:48] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:48] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:49] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:49] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:49] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:49] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:49] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:49] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:49] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:49] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:50] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:50] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:50] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:50] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:51] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:51] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:51] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:51] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:52] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:52] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:53] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:53] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:53] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:53] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:53] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:53] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:53] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:53] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:54] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:54] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:54] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:54] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:56] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:56] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:56] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:56] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:56] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:56] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:56] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:56] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:57] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:57] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:57] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:57] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:58] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:58] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:58] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:58] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:58] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:58] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:59] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:59] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:59] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:59] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:59] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:59] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:24:59] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:24:59] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:00] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:00] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:02] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:02] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:03] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:03] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:04] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:04] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:06] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:06] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:07] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:07] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:08] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:08] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:09] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:09] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:09] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:09] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:09] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:09] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:10] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:10] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:10] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:10] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:10] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:10] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:11] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:11] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:11] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:11] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:11] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:11] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:11] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:11] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:12] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:12] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:12] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:12] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:12] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:12] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:12] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:12] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:13] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:13] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:13] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:13] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:13] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:13] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:13] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:13] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:14] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:14] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:14] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:14] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:14] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:14] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:14] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:14] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:15] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:15] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:15] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:15] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:15] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:15] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:16] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:16] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:17] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:17] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:17] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:17] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:17] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:17] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:18] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:18] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:18] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:18] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:18] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:18] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:19] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:19] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:19] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:19] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:20] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:20] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:20] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:20] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:20] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:20] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:21] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:21] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:21] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:21] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:21] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:21] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:22] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:22] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:22] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:22] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:22] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:22] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:23] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:23] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:23] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:23] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:23] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:23] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:24] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:24] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:24] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:24] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:24] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:24] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:25] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:25] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:25] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:25] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:25] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:25] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:26] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:26] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:26] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:26] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:26] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:26] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:26] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:26] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:27] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:27] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:27] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:27] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:27] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:27] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:27] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:27] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:28] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:28] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:28] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:28] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:28] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:28] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:28] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:28] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:29] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:29] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:29] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:29] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:30] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:30] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:30] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:30] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:30] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:30] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:30] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:30] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:31] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:31] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:33] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:33] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:33] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:33] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:34] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:34] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:34] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:34] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:35] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:35] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:35] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:35] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:37] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:37] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:37] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:37] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:41] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:41] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:41] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:41] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:25:41] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:25:41] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:26:22] [Server thread/INFO]: amdYes_intelNO issued server command: /gamemode survival
+[15:26:41] [Async Chat Thread - #4/INFO]: []<amdYes_intelNO> w/gmc
+[15:26:45] [Server thread/INFO]: YingLraft issued server command: /gmc
+[15:26:48] [Server thread/INFO]: amdYes_intelNO issued server command: /gamemode creative
+[15:26:50] [Server thread/INFO]: YingLraft issued server command: /gm 1
+[15:27:03] [Server thread/INFO]: YingLraft issued server command: /qs setowner YingLraft
+[15:27:04] [Server thread/INFO]: amdYes_intelNO issued server command: /co i
+[15:27:51] [Server thread/INFO]: YingLraft issued server command: /rule
+[15:27:52] [Server thread/INFO]: YingLraft issued server command: /rules
+[15:27:54] [Server thread/INFO]: YingLraft issued server command: /rules
+[15:27:57] [Server thread/INFO]: amdYes_intelNO issued server command: /co restore radius: 10 time: 0.02h user: #creeper
+[15:28:07] [Server thread/INFO]: axdvgnk278 issued server command: /clear axdvgnk278
+[15:28:08] [Server thread/INFO]: amdYes_intelNO issued server command: /co rollback radius: 10 time: 0.02h user: #creeper
+[15:28:25] [Server thread/INFO]: axdvgnk278 has made the advancement [Best Friends Forever]
+[15:28:54] [Server thread/INFO]: amdYes_intelNO issued server command: /co i
+[15:29:04] [Server thread/INFO]: amdYes_intelNO issued server command: /call
+[15:29:07] [Server thread/INFO]: amdYes_intelNO issued server command: /call YingLraft
+[15:29:12] [Server thread/INFO]: YingLraft issued server command: /tpaccept
+[15:29:26] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:29:26] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:29:26] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:29:26] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:29:27] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:29:27] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:29:27] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:29:27] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:29:28] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:29:28] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:29:28] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:29:28] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:29:30] [Server thread/INFO]: amdYes_intelNO issued server command: /fireball
+[15:29:30] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /fireball
+[15:29:40] [Server thread/INFO]: amdYes_intelNO issued server command: /powertool tnt
+[15:29:49] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:29:49] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:29:54] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:29:54] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:00] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:00] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:00] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:00] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:01] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:01] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:02] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:02] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:02] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:02] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:02] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:02] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:02] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:02] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:02] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:02] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:03] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:03] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:03] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:03] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:09] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:09] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:10] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:10] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:10] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:10] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:10] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:10] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:10] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:10] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:11] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:11] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:11] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:11] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:11] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:11] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:11] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:11] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:12] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:12] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:12] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:12] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:12] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:12] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:12] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:12] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:12] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:12] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:13] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:13] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:13] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:13] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:13] [Server thread/INFO]: axdvgnk278 has made the advancement [Take Aim]
+[15:30:13] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:13] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:13] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:13] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:13] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:13] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:14] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:14] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:17] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:17] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:17] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:17] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:18] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:18] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:18] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:18] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:19] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:19] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:19] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:19] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:25] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:25] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:26] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:26] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:33] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:33] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:33] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:33] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:33] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:33] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:33] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:33] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:34] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:34] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:34] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:34] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:34] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:34] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:34] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:34] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:34] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:34] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:35] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:35] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:35] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:35] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:35] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:35] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:35] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:35] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:35] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:35] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:36] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:36] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:36] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:36] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:36] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:36] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:36] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:36] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:36] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:36] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:37] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:37] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:37] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:37] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:44] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:44] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:44] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:44] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:45] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:45] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:45] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:45] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:45] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:45] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:45] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:45] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:46] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:46] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:46] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:46] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:46] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:46] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:46] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:46] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:46] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:46] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:47] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:47] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:47] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:47] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:47] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:47] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:47] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:47] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:47] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:47] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:48] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:48] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:48] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:48] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:48] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:48] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:48] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:48] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:48] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:48] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:49] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:49] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:49] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:49] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:50] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:50] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:50] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:50] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:50] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:50] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:50] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:50] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:50] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:50] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:51] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:51] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:51] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:51] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:51] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:51] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:51] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:51] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:52] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:52] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:52] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:52] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:52] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:52] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:52] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:52] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:53] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:53] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:53] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:53] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:53] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:53] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:53] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:53] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:53] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:53] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:54] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:54] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:54] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:54] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:54] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:54] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:54] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:54] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:55] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:55] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:55] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:55] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:55] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:55] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:55] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:55] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:56] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:56] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:56] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:56] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:59] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:59] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:59] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:59] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:59] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:59] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:30:59] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:30:59] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:00] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:00] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:00] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:00] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:00] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:00] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:00] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:00] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:01] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:01] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:01] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:01] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:01] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:01] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:01] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:01] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:02] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:02] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:02] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:02] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:02] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:02] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:03] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:03] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:03] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:03] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:03] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:03] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:03] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:03] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:04] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:04] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:04] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:04] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:05] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:05] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:05] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:05] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:07] [Server thread/INFO]: YingLraft issued server command: /qs silentremove world 164 68 -185
+[15:31:11] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:11] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:12] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:12] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:12] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:12] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:18] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:18] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:18] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:18] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:18] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:18] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:18] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:18] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:19] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:19] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:19] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:19] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:29] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:29] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:30] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:30] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:30] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:30] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:30] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:30] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:37] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:37] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:38] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:38] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:38] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:38] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:38] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:38] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:38] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:38] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:39] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:39] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:39] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:39] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:39] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:39] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:39] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:39] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:39] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:39] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:40] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:40] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:40] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:40] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:40] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:40] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:40] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:40] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:41] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:41] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:41] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:41] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:41] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:41] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:41] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:41] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:42] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:42] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:42] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:42] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:44] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:44] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:44] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:44] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:44] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:44] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:45] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:45] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:45] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:45] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:45] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:45] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:45] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:45] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:45] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:45] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:46] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:46] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:46] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:46] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:46] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:46] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:46] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:46] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:46] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:46] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:47] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:47] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:47] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:47] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:48] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:48] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:48] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:48] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:48] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:48] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:48] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:48] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:48] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:48] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:48] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:48] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:49] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:49] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:49] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:49] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:50] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:50] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:50] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:50] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:50] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:50] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:50] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:50] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:51] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:51] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:51] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:51] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:51] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:51] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:51] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:51] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:52] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:52] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:52] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:52] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:52] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:52] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:52] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:52] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:52] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:52] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:52] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:52] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:53] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:53] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:53] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:53] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:53] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:53] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:54] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:54] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:54] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:54] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:55] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:55] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:55] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:55] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:55] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:55] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:56] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:56] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:56] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:56] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:56] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:56] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:56] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:56] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:31:57] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:31:57] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:32:01] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:32:01] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:32:01] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:32:01] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:32:01] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:32:01] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:32:02] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:32:02] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:32:02] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:32:02] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:32:02] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:32:02] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:32:02] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:32:02] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:32:03] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:32:03] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:32:08] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:32:08] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:32:13] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:32:13] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:32:15] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:32:15] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:32:20] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:32:20] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:32:21] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:32:21] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:32:30] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:32:30] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:32:33] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:32:33] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:32:38] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:32:38] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:32:45] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:32:45] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:32:49] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:32:49] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:32:54] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:32:54] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:33:29] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:33:29] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:33:30] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:33:30] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:33:30] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:33:30] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:33:30] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:33:30] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:33:30] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:33:30] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:33:31] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:33:31] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:33:38] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:33:38] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:33:40] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:33:40] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:33:42] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:33:42] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:33:45] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:33:45] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:33:48] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:33:48] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:33:48] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:33:48] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:33:48] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:33:48] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:33:51] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:33:51] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:33:52] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:33:52] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:33:52] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:33:52] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:33:59] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:33:59] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:34:06] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:34:06] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:34:07] [Server thread/INFO]: YingLraft issued server command: /tnt
+[15:34:16] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:34:16] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:34:17] [Server thread/INFO]: YingLraft issued server command: /tnt
+[15:34:18] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:34:18] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:34:19] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:34:19] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:34:19] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:34:19] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:34:24] [Server thread/INFO]: YingLraft issued server command: /tnt
+[15:34:24] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:34:24] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:34:25] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:34:25] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:34:25] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:34:25] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:34:25] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:34:25] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:34:25] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:34:25] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:34:56] [Server thread/INFO]: YingLraft issued server command: /tnt
+[15:34:59] [Server thread/INFO]: YingLraft issued server command: /tnt
+[15:35:02] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:35:02] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:35:03] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:35:03] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:35:03] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:35:03] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:35:03] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:35:03] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:35:03] [Server thread/INFO]: amdYes_intelNO issued server command: /tnt
+[15:35:03] [Server thread/INFO]: [Essentials] [PT] amdYes_intelNO issued server command: /tnt
+[15:35:10] [Server thread/INFO]: YingLraft issued server command: /tnt
+[15:35:11] [Server thread/INFO]: YingLraft issued server command: /tnt
+[15:35:11] [Server thread/INFO]: YingLraft issued server command: /tnt
+[15:35:14] [Server thread/INFO]: YingLraft issued server command: /tnt
+[15:35:15] [Server thread/INFO]: YingLraft issued server command: /tnt
+[15:35:16] [Server thread/INFO]: YingLraft issued server command: /tnt
+[15:35:17] [Server thread/INFO]: YingLraft issued server command: /tnt
+[15:36:04] [Async Chat Thread - #5/INFO]: []<ねずこ> fuck
+[15:36:06] [Async Chat Thread - #5/INFO]: []<影りょう> yee
+[15:36:43] [Async Chat Thread - #5/INFO]: []<影りょう> 我這暑假應該不會去嘉義哦
+[15:36:46] [Async Chat Thread - #5/INFO]: []<ねずこ> ok
+[15:37:02] [Async Chat Thread - #5/INFO]: []<影りょう> 可能10月過有駕照再去
+[15:38:32] [Async Chat Thread - #6/INFO]: []<影りょう> 你暑假高雄CW有要來嗎
+[15:38:41] [Async Chat Thread - #6/INFO]: []<ねずこ> 不一定
+[15:38:51] [Async Chat Thread - #6/INFO]: []<影りょう> 要來再和我說 我應該能帶
+[15:41:04] [Async Chat Thread - #7/INFO]: []<影りょう> 8/22 88/23
+[15:41:08] [Async Chat Thread - #7/INFO]: []<影りょう> 8/22 8/23
+[15:41:09] [Async Chat Thread - #7/INFO]: []<影りょう> ##
+[15:41:44] [Async Chat Thread - #7/INFO]: []<ねずこ> yee
+[15:41:47] [Async Chat Thread - #7/INFO]: []<影りょう> 國際會議中心
+[15:43:11] [Async Chat Thread - #8/INFO]: []<ねずこ> 還有兩種
+[15:43:15] [Async Chat Thread - #8/INFO]: []<影りょう> 嘿?
+[15:43:23] [Async Chat Thread - #8/INFO]: []<ねずこ> 貓
+[15:43:26] [Async Chat Thread - #8/INFO]: []<影りょう> 哦是說如果你11月那邊有空
+[15:43:33] [Async Chat Thread - #8/INFO]: []<影りょう> 我比較推薦那個時候來高雄跑FFK
+[15:43:38] [Async Chat Thread - #8/INFO]: []<影りょう> FFK場次很大
+[15:43:41] [Async Chat Thread - #8/INFO]: []<影りょう> 一年一場
+[15:43:55] [Async Chat Thread - #8/INFO]: []<ねずこ> ok
+[15:44:04] [Async Chat Thread - #8/INFO]: []<影りょう> 他是FF和駁二動漫祭合辦的
+[15:46:05] [Async Chat Thread - #9/INFO]: []<影りょう> 對了 有空可以多來DC 盡量不要用隱藏模式
