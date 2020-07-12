@@ -9,5 +9,13 @@ lastAccountName: axdvgnk278
 timestamps:
   login: 1594537468259
   lastteleport: 1594538129943
+  logout: 1594542969743
 ipAddress: 36.236.54.145
 nickname: ねずこ
+logoutlocation:
+  world: world
+  x: 156.1253115197166
+  y: 71.20000004768372
+  z: -185.9144252879944
+  yaw: -15.365112
+  pitch: 36.74999

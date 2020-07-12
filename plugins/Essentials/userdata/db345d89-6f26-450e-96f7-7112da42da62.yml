@@ -1,23 +1,23 @@
 lastAccountName: amdYes_intelNO
 timestamps:
-  login: 1594537421312
-  logout: 1594533701969
-  lastteleport: 1594538952135
+  login: 1594559999897
+  logout: 1594560015671
+  lastteleport: 1594541110844
 ipAddress: 127.0.0.1
 lastlocation:
-  world: world
-  x: 143.54785172723774
-  y: 72.23388157147141
-  z: -178.11334091439764
-  yaw: 220.05328
-  pitch: 68.99938
+  world: survive_world
+  x: -142.2616064400812
+  y: 67.0
+  z: 167.7162124876356
+  yaw: 88.950294
+  pitch: 16.050127
 logoutlocation:
   world: world
-  x: 177.4759645674522
-  y: 77.48779849180225
-  z: -188.1610904773555
-  yaw: -240.59192
-  pitch: 44.249893
+  x: 158.1833392228541
+  y: 67.0
+  z: -191.7866139707599
+  yaw: 85.93765
+  pitch: 9.74958
 homes:
   home:
     world: world
@@ -31,3 +31,4 @@ money: '3030.8'
 powertools:
   acacia_sign:
   - tnt
+nickname: 杰
