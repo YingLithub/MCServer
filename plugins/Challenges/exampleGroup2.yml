@@ -21,4 +21,4 @@ challenges:
     stages:
       - 5 experience=20
       - 10 experience=40
-      - 25 experience=60 item=iron_pickaxe,1,name=&cSpeedy_Pickaxe,lore=&rMines_faster!|&rI_completed_Mine_Iron_3!,efficiency=3
+      - 25 experience=60 item=iron_pickaxe,1,name=&cSpeedy_Pickaxe,lore=&rMines_faster!|&rI_completed_Mine_gold_3!,efficiency=3
