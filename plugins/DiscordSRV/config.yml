@@ -2,15 +2,15 @@
 ConfigVersion: 1.18.4
 
 # Bot token; 若不知道這是什麼，請看plugin頁面上的影片
-BotToken: "**********************************************************************"
+BotToken: "NzMyMzgyMjM0ODI4NjAzNTAz.Xw6fjQ.L9OnpBjfSKAIvG2k4JQMlzMAwgA"
 
 # 將遊戲連結到Discord頻道
 # s參數格式: {"遊戲內頻道名稱": "Discord頻道的ID", "遊戲內頻道2名稱": "Discord頻道2的ID"}
 # 此項設定中的第一個頻道為主要頻道用來發送玩家登入/登出/死亡/成就/其他訊息
-Channels: {"global": "693665606976667648"}
+Channels: {"global": "732211740171042816"}
 
 # 控制台頻道ID,留白表示不使用
-DiscordConsoleChannelId: "573844179936083978"
+DiscordConsoleChannelId: "732211774820188260"
 
 # Debug 選項, 若無必要毋須變更
 #
