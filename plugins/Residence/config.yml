@@ -143,13 +143,13 @@ Global:
     TeleportTitleMessage: true
   RandomTeleportation:
     Worlds:
-      world:
+      survive_world:
         Enabled: true
         MaxCoord: 1000
         MinCoord: 500
         CenterX: 0
         CenterZ: 0
-      survive_world:
+      world:
         Enabled: true
         MaxCoord: 1000
         MinCoord: 500
