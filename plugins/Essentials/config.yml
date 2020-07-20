@@ -311,15 +311,15 @@ pastebin-createkit: false
 
 enabledSigns:
   #- color
-  #- balance
+  - balance
   #- buy
   #- sell
   #- trade
   #- free
   #- disposal
-  #- warp
+  - warp
   #- kit
-  #- mail
+  - mail
   #- enchant
   #- gamemode
   #- heal
