@@ -5,7 +5,7 @@
 ConfigVersion: 1.19.1
 
 # Bot token; 若不知道這是什麼，請看plugin頁面上的影片
-BotToken: "NzMyMzgyMjM0ODI4NjAzNTAz.XxVOlQ.C5OKP8oW7P78NpAmyOwQuPnIc5I"
+BotToken: "N跨三小zMyMzgyMjM0ODI4NjAzNTAz.XxW21Q.GZcSZO1nAJBQ5Xv0R1ozjgRUvIc"
 
 # 將遊戲連結到Discord頻道
 # s參數格式: {"遊戲內頻道名稱": "Discord頻道的ID", "遊戲內頻道2名稱": "Discord頻道2的ID"}
