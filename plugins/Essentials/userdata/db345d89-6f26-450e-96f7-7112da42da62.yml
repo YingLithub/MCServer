@@ -1,9 +1,9 @@
 lastAccountName: amdYes_intelNO
 timestamps:
-  login: 1594882997589
+  login: 1595260573372
   logout: 1594560015671
   lastteleport: 1594824196068
-ipAddress: 127.0.0.1
+ipAddress: 192.168.56.1
 lastlocation:
   world: survive_world
   x: -160.71287137653562
@@ -27,7 +27,7 @@ homes:
     yaw: 165.15158
     pitch: 18.000095
 afk: false
-money: '3030.8'
+money: '174.8'
 powertools:
   acacia_sign:
   - tnt
