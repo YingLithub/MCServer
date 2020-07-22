@@ -1,22 +1,22 @@
 lastAccountName: YingLraft
 timestamps:
-  login: 1594552707731
-  logout: 1594552726535
-  lastteleport: 1594541091746
+  login: 1595338774149
+  logout: 1595338870887
+  lastteleport: 1595338846189
 ipAddress: 49.159.73.44
 lastlocation:
-  world: survive_world
-  x: -158.13015981869023
+  world: world_nether
+  x: 7.5
   y: 64.0
-  z: 160.37585450705154
-  yaw: 326.10077
-  pitch: 15.900021
+  z: -33.5
+  yaw: -33.599968
+  pitch: 32.550102
 logoutlocation:
   world: world
-  x: 167.55886045346307
-  y: 73.37016231842433
-  z: -180.4613660587279
-  yaw: -88.95309
-  pitch: 90.0
+  x: 65.36757145292306
+  y: 89.15716716256658
+  z: -267.5054008437244
+  yaw: 91.6483
+  pitch: 21.14995
 nickname: 影りょう
 afk: false
