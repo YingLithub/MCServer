@@ -11,27 +11,18 @@
 # Forums: http://www.spigotmc.org/
 
 config-version: 12
-settings:
-  save-user-cache-on-stop-only: false
-  sample-count: 12
-  bungeecord: false
-  player-shuffle: 0
-  user-cache-size: 1000
-  moved-wrongly-threshold: 0.0625
-  moved-too-quickly-multiplier: 10.0
-  log-villager-deaths: true
-  timeout-time: 60
-  restart-on-crash: true
-  restart-script: ./start.sh
-  netty-threads: 4
-  debug: false
-  attribute:
-    maxHealth:
-      max: 2048.0
-    movementSpeed:
-      max: 2048.0
-    attackDamage:
-      max: 2048.0
+commands:
+  log: true
+  tab-complete: 0
+  send-namespaced: true
+  spam-exclusions:
+  - /skill
+  silent-commandblock-console: false
+  replace-commands:
+  - setblock
+  - summon
+  - testforblock
+  - tellraw
 messages:
   whitelist: You are not whitelisted on this server!
   unknown-command: Unknown command. Type "/help" for help.
@@ -39,37 +30,49 @@ messages:
   outdated-client: Outdated client! Please use {0}
   outdated-server: Outdated server! I'm still on {0}
   restart: Server is restarting
-commands:
-  log: true
-  tab-complete: 0
-  send-namespaced: true
-  spam-exclusions:
-  - /skill
-  replace-commands:
-  - setblock
-  - summon
-  - testforblock
-  - tellraw
-  silent-commandblock-console: false
+settings:
+  timeout-time: 60
+  restart-on-crash: false
+  restart-script: ./start.sh
+  bungeecord: false
+  netty-threads: 4
+  sample-count: 12
+  player-shuffle: 0
+  user-cache-size: 1000
+  save-user-cache-on-stop-only: true
+  moved-wrongly-threshold: 0.0625
+  moved-too-quickly-multiplier: 10.0
+  debug: false
+  log-villager-deaths: false
+  attribute:
+    maxHealth:
+      max: 2048.0
+    movementSpeed:
+      max: 2048.0
+    attackDamage:
+      max: 2048.0
+stats:
+  disable-saving: false
+  forced-stats: {}
 advancements:
   disable-saving: false
   disabled:
   - minecraft:story/disabled
-stats:
-  disable-saving: false
-  forced-stats: {}
 world-settings:
   default:
-    seed-bastion: 30084232
-    seed-fortress: 30084232
-    seed-mansion: 10387319
-    seed-fossil: 14357921
-    seed-portal: 34222645
-    end-portal-sound-radius: 0
     verbose: true
-    mob-spawn-range: 8
-    hopper-amount: 1
+    view-distance: default
+    mob-spawn-range: 3
+    item-despawn-rate: 400
+    hopper-amount: 3
+    arrow-despawn-rate: 300
+    trident-despawn-rate: 300
+    zombie-aggressive-towards-villager: true
+    nerf-spawner-mobs: false
+    enable-zombie-pigmen-portal-spawns: true
     dragon-death-sound-radius: 0
+    wither-spawn-sound-radius: 0
+    end-portal-sound-radius: 0
     seed-village: 10387312
     seed-desert: 14357617
     seed-igloo: 14357618
@@ -82,19 +85,8 @@ world-settings:
     seed-endcity: 10387313
     seed-slime: 987234911
     max-tnt-per-tick: 100
-    view-distance: default
-    enable-zombie-pigmen-portal-spawns: true
-    item-despawn-rate: 6000
-    arrow-despawn-rate: 1200
-    trident-despawn-rate: 1200
-    wither-spawn-sound-radius: 0
     hanging-tick-frequency: 100
-    zombie-aggressive-towards-villager: true
-    nerf-spawner-mobs: false
-    max-entity-collisions: 8
-    merge-radius:
-      exp: 3.0
-      item: 2.5
+    max-entity-collisions: 1
     growth:
       cactus-modifier: 100
       cane-modifier: 100
@@ -112,18 +104,21 @@ world-settings:
       bamboo-modifier: 100
       sweetberry-modifier: 100
       kelp-modifier: 100
+    merge-radius:
+      item: 4.0
+      exp: 6.0
     entity-activation-range:
-      animals: 32
-      monsters: 32
+      animals: 6
+      monsters: 16
       raiders: 48
-      misc: 16
+      misc: 2
       water: 16
       villagers: 32
       flying-monsters: 32
       villagers-work-immunity-after: 100
       villagers-work-immunity-for: 20
       villagers-active-for-panic: true
-      tick-inactive-villagers: true
+      tick-inactive-villagers: false
       wake-up-inactive:
         animals-max-per-tick: 4
         animals-every: 1200
@@ -144,8 +139,8 @@ world-settings:
       misc: 32
       other: 64
     ticks-per:
-      hopper-transfer: 8
-      hopper-check: 1
+      hopper-transfer: 24
+      hopper-check: 3
     hunger:
       jump-walk-exhaustion: 0.05
       jump-sprint-exhaustion: 0.2
@@ -155,9 +150,7 @@ world-settings:
       sprint-multiplier: 0.1
       other-multiplier: 0.0
     max-tick-time:
-      tile: 50
-      entity: 50
+      tile: 1000
+      entity: 1000
     squid-spawn-range:
       min: 45.0
-  worldeditregentempworld:
-    verbose: false
