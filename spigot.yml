@@ -31,6 +31,8 @@ messages:
   outdated-server: Outdated server! I'm still on {0}
   restart: Server is restarting
 settings:
+  bungeecord-addresses:
+  - 127.0.0.1
   timeout-time: 60
   restart-on-crash: false
   restart-script: ./start.sh

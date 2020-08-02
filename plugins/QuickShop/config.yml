@@ -1,6 +1,6 @@
 # 
 # whether to use decimal format output.
-config-version: 107
+config-version: 108
 language: en-US
 game-language: default
 dev-mode: false
@@ -204,6 +204,10 @@ integration:
         own: false
         warzone: false
       flags: []
+  lands:
+    enable: false
+    whitelist-mode: false
+    ignore-disabled-worlds: true
 protect:
   explode: true
   hopper: true
