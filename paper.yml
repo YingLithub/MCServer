@@ -50,7 +50,7 @@ settings:
     total-multiplier: 0.98
   async-chunks:
     enable: true
-    threads: -1
+    threads: 12
   unsupported-settings:
     allow-permanent-block-break-exploits: false
     allow-piston-duplication: false
