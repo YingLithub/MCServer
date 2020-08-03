@@ -11,6 +11,7 @@
 verbose: false
 config-version: 4
 settings:
+  use-alternate-keepalive: false
   dont-send-useless-entity-packets: false
   lagging-threshold: 19.0
   tps-catchup: true

@@ -50,7 +50,7 @@ settings:
     total-multiplier: 0.98
   async-chunks:
     enable: true
-    threads: 12
+    threads: -1
   unsupported-settings:
     allow-permanent-block-break-exploits: false
     allow-piston-duplication: false
@@ -203,4 +203,4 @@ world-settings:
       cooldown-when-full: true
       disable-move-event: true
     viewdistances:
-      no-tick-view-distance: 7
+      no-tick-view-distance: 24
