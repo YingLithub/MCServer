@@ -203,4 +203,4 @@ world-settings:
       cooldown-when-full: true
       disable-move-event: true
     viewdistances:
-      no-tick-view-distance: 7
+      no-tick-view-distance: 24
