@@ -1,0 +1,32 @@
+# This is the main configuration file for Yatopia.
+# Yatopia contains many breaking changes and settings, so know what you are doing!
+# You have been warned!
+
+verbose: false
+async-advancements: true
+use-faster-eigencraft-redstone: false
+config-version: 1
+settings:
+  disablePlayerOutOfWorldBorderCheck: false
+  disableEntityCollisions: false
+  pistonPushLimit: 12
+  disableEntityCollisionboxes: false
+  itemStuckSleepTicks: 1
+  disableEntityStuckChecks: false
+  onlyPlayerCollisions: false
+  villager:
+    simplerVillagerBehavior: false
+    villagersHideAtNight: false
+config-version-please-do-not-modify-me: 1
+world-settings:
+  default: {}
+  world: {}
+  world_nether: {}
+  world_the_end: {}
+  survive_world: {}
+worlds:
+  default:
+    tick-empty-hoppers: false
+    fast-feature-search-dont-load: false
+    ticks-per:
+      full-hopper-cooldown: 128
