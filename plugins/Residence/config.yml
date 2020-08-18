@@ -142,6 +142,13 @@ Global:
     # Show aditional message in title message area when player is teleporting to residence
     TeleportTitleMessage: true
   RandomTeleportation:
+    Worlds:
+      shigen:
+        Enabled: true
+        MaxCoord: 1000
+        MinCoord: 500
+        CenterX: 0
+        CenterZ: 0
     # How long force player to wait before using command again.
     Cooldown: 5
     # How many times to try find correct location for teleportation.

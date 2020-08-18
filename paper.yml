@@ -24,6 +24,7 @@ timings:
   history-length: 3600
   server-name: Unknown Server
 settings:
+  async-advancements: false
   load-permissions-yml-before-plugins: true
   region-file-cache-size: 256
   enable-player-collisions: false
