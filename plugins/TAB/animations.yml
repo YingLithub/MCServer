@@ -1,4 +1,4 @@
-﻿#usage: %animation:NAME%
+#usage: %animation:NAME%
 animations:
   MyAnimation1:
     #in MILLISECONDS
@@ -36,12 +36,12 @@ animations:
   ServerName:
     change-interval: 300
     texts:
-      - "&c&lFunnyDango"
-      - "&c&n&lFunnyDango"
-      - "&b&lFunnyDango"
-      - "&b&l&nFunnyDango"
-      - "&e&lFunnyDango"
-      - "&e&n&lFunnyDango"
+      - "&c&lServerName"
+      - "&c&n&lServerName"
+      - "&b&lServerName"
+      - "&b&l&nServerName"
+      - "&e&lServerName"
+      - "&e&n&lServerName"
   web:
     change-interval: 200
     texts:
@@ -113,8 +113,8 @@ animations:
   ping-tps:
     change-interval: 5000
     texts:
-      - "&a延遲: &2&n%ping%&r &ams"
-      - "&b伺服器 TPS: &8%tps%"
+      - "&aPing: &2&n%ping%&r &ams"
+      - "&bServer TPS: &8%tps%"
   admin_prefix:
     change-interval: 1000
     texts:

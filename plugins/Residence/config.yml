@@ -19,8 +19,11 @@ Global:
     # When this set to true, selections inside existing residence will be from bottom to top of that residence
     # When this set to false, selections inside existing residence will be exactly as they are
     IgnoreYInSubzone: false
+    # Defines height of nether when creating residences. This mostly applies when performing commands like /res select vert or /res auto which will expand residence to defined height
+    # This cant be higher than 255 or lower than 1
+    netherHeight: 128
     # By setting this to true, player will only pay for x*z blocks ignoring height
-    # This will lower residence price by up to 256 times, so adjust block price BEFORE enabling this
+    # This will lower residence price by up to 255 times, so adjust block price BEFORE enabling this
     NoCostForYBlocks: false
   # This determins which tool you can use to see info on residences, default is String.
   # Simply equip this tool and hit a location inside the residence and it will display the info for it.
@@ -94,9 +97,12 @@ Global:
       Pitch: 0.0
       # Head position to left and right. Range from -180 to 180
       Yaw: 0.0
-    ShortInfo:
+    InfoCommand:
       # By setting this to true, when checking residence info with /res info, you will get only names in list, by hovering on them, you will get flag list
-      Use: true
+      ShortInformation: true
+      # When set to true default residence flags set in flags.yml file will get excluded from info command output and will not be shown
+      # If flag gets different state then it will be shown
+      ExcludeDefaultFlags: false
     Vote:
       # Range players can vote to, by default its from 0 to 10 points
       RangeFrom: 0
@@ -143,6 +149,33 @@ Global:
     TeleportTitleMessage: true
   RandomTeleportation:
     Worlds:
+      # World name to use this feature. Add annother one with appropriate name to enable random teleportation
+      world_nether:
+        Enabled: true
+        # Max coordinate to teleport, setting to 1000, player can be teleported between -1000 and 1000 coordinates
+        MaxCoord: 1000
+        # If maxcoord set to 1000 and mincoord to 500, then player can be teleported between -1000 to -500 and 500 to 1000 coordinates
+        MinCoord: 500
+        CenterX: 0
+        CenterZ: 0
+      world_the_end:
+        Enabled: true
+        MaxCoord: 1000
+        MinCoord: 500
+        CenterX: 0
+        CenterZ: 0
+      world:
+        Enabled: true
+        MaxCoord: 1000
+        MinCoord: 500
+        CenterX: 0
+        CenterZ: 0
+      survive_world:
+        Enabled: true
+        MaxCoord: 1000
+        MinCoord: 500
+        CenterX: 0
+        CenterZ: 0
       shigen:
         Enabled: true
         MaxCoord: 1000
@@ -436,14 +469,12 @@ Global:
   EnableLeaseMoneyAccount: true
   # By setting this to true, partial compatibility for kCouldron servers will be enabled. Action bar messages and selection visualizer will be disabled automatically as off incorrect compatibility
   Couldroncompatibility: false
-Enabled: true
-MaxCoord: 1000
-MinCoord: 500
-CenterX: 0
-CenterZ: 0
 DynMap:
   # Enables or disable DynMap Support
   Use: false
+  # When set to true we will hide residence areas by default on dynmap window
+  # Residences can still be enabled throw provided DynMap option on left top side
+  HideByDefault: false
   # Shows or hides residence flags
   ShowFlags: true
   # If set true, residence with hidden flag set to true will be hidden from dynmap

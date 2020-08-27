@@ -81,6 +81,7 @@ npc:
   teleport-delay: -1
   player-scoreboard-teams:
     enable: true
+  always-use-name-holograms: false
 general:
   authlib:
     profile-url: https://sessionserver.mojang.com/session/minecraft/profile/

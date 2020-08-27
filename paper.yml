@@ -24,6 +24,9 @@ timings:
   history-length: 3600
   server-name: Unknown Server
 settings:
+  max-joins-per-tick: 3
+  player-auto-save-rate: -1
+  max-player-auto-save-per-tick: -1
   async-advancements: false
   load-permissions-yml-before-plugins: true
   region-file-cache-size: 256
@@ -53,6 +56,7 @@ settings:
     enable: true
     threads: -1
   unsupported-settings:
+    allow-headless-pistons: false
     allow-permanent-block-break-exploits: false
     allow-piston-duplication: false
     allow-permanent-block-break-exploits-readme: This setting controls if players
@@ -61,6 +65,8 @@ settings:
     allow-piston-duplication-readme: This setting controls if player should be able
       to use TNT duplication, but this also allows duplicating carpet, rails and potentially
       other items
+    allow-headless-pistons-readme: This setting controls if players should be able
+      to create headless pistons.
 messages:
   no-permission: '&cI''m sorry, but you do not have permission to perform this command.
     Please contact the server administrators if you believe that this is in error.'

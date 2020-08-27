@@ -20,6 +20,10 @@ Language:
     Group: '&c無效的許可權組...'
     MessageType: '&c消息類型必須為 enter(進入), leave(離開) 或 remove(移除).'
     Flag: '&c無效許可權...'
+    FlagType:
+      Fail: '&cInvalid Flag... This flag can only be used on %1'
+      Player: Player
+      Residence: Residence
     FlagState: '&c無效許可權狀態, 必須為 &6true(t)&c, &6false(f)&c, 或 &6remove(r)'
     List: '&e未知名單類型, 必須是 &6blacklist(黑名單) &e或 &6ignorelist(忽略名單).'
     Page: '&e無效頁面...'
@@ -371,9 +375,10 @@ Language:
     - '&c按右鍵禁用'
     - '&eShift+左鍵按一下刪除'
   InformationPage:
-    TopLine: '&e---< &a %1 &e >---'
+    Top: '&e___/ &a %1 - %2 &e \___'
+    TopSingle: '&e___/ &a %1 &e \___'
     Page: '&e-----< &6%1 &e>-----'
-    NextPage: '&e-----< &6%1 &e>-----'
+    NextPage2: '&e-----< &6%1 &e>-----'
     NoNextPage: '&e-----------------------'
     GeneralList: '&2 %1 &6- &e%2'
     FlagsList: '&2 %1 &6- &e%2'
@@ -986,7 +991,6 @@ CommandHelp:
               Description: 給予 build, use, move, container 和 tp 許可權
               Info:
               - '&e用法: &6/res pset <領地> [許可權] true/false/remove'
-              Translated: trusted
             place:
               Description: 只允許或禁止放置方塊, 該許可權覆蓋 build 許可權
               Info:
@@ -1233,7 +1237,6 @@ CommandHelp:
               Description: 給予 lever, diode, button, pressure 和 note 許可權
               Info:
               - '&e用法: &6/res set/pset <領地> [許可權] true/false/remove'
-              Translated: redstone
             craft:
               Description: 給予 table, enchant 和 brew 許可權
               Info:
